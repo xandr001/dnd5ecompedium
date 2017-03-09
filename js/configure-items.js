@@ -99,7 +99,7 @@ $(document).ready(function() {
       initDataTable() ;
       $.ajax({
       type: "GET",
-	    url: 'https://raw.githubusercontent.com/ceryliae/DnDAppFiles/master/Items/Mundane%20Items.xml',
+	    url: 'Data/Items/Mundane%20Items.xml',
       dataType: "xml",
       success: function(xml) {
         var i=1;
@@ -126,7 +126,7 @@ $(document).ready(function() {
    $('#modal-container-665355 .modal-title').html(''); 
    $.ajax({
       type: "GET",
-	    url: 'https://raw.githubusercontent.com/ceryliae/DnDAppFiles/master/Items/Mundane%20Items.xml',
+	    url: 'Data/Items/Mundane%20Items.xml',
       dataType: "xml",
       success: function(xml) {
 		    i--;
