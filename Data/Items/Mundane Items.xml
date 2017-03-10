@@ -4,7 +4,7 @@
 		<name>Copper (cp)</name>
 		<type>$</type>
         <magic></magic>
-		<value>1 меди</value>
+		<value>1 медная монета</value>
 		<weight>0.02</weight>
 		<text>Common coins come in several different denominations based on the relative worth of the metal from which they are made. The three most common coins are the gold piece (gp), the silver piece (sp), and the copper piece (cp).</text>
 		<text />
@@ -24,7 +24,7 @@
 		<name>Electrum (ep)</name>
 		<type>$</type>
         <magic></magic>
-		<value>1 электрума</value>
+		<value>1 электрумовая монета</value>
 		<weight>0.02</weight>
 		<text>Common coins come in several different denominations based on the relative worth of the metal from which they are made. The three most common coins are the gold piece (gp), the silver piece (sp), and the copper piece (cp).</text>
 		<text />
@@ -44,7 +44,7 @@
 		<name>Gold (gp)</name>
 		<type>$</type>
         <magic></magic>
-		<value>1 золота</value>
+		<value>1 золотая монета</value>
 		<weight>0.02</weight>
 		<text>Common coins come in several different denominations based on the relative worth of the metal from which they are made. The three most common coins are the gold piece (gp), the silver piece (sp), and the copper piece (cp).</text>
 		<text />
@@ -64,7 +64,7 @@
 		<name>Platinum (pp)</name>
 		<type>$</type>
         <magic></magic>
-		<value>1 платины</value>
+		<value>1 платиновая монета</value>
 		<weight>0.02</weight>
 		<text>Common coins come in several different denominations based on the relative worth of the metal from which they are made. The three most common coins are the gold piece (gp), the silver piece (sp), and the copper piece (cp).</text>
 		<text />
@@ -84,7 +84,7 @@
 		<name>Silver (sp)</name>
 		<type>$</type>
         <magic></magic>
-		<value>1 серебра</value>
+		<value>1 серебряная монета</value>
 		<weight>0.02</weight>
 		<text>Common coins come in several different denominations based on the relative worth of the metal from which they are made. The three most common coins are the gold piece (gp), the silver piece (sp), and the copper piece (cp).</text>
 		<text />
@@ -104,7 +104,7 @@
 		<name>Arrows</name>
 		<type>Амуниция</type>
         <magic></magic>
-		<value>5 меди</value>
+		<value>5 медных монет</value>
 		<weight>0.05</weight>
 		<text>Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.</text>
 		<text />
@@ -114,7 +114,7 @@
 		<name>Arrows (20)</name>
 		<type>Амуниция</type>
         <magic></magic>
-		<value>1 золота</value>
+		<value>1 золотая монета</value>
 		<weight>1</weight>
 		<text>Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.</text>
 		<text />
@@ -124,7 +124,7 @@
 		<name>Blowgun Needles</name>
 		<type>Амуниция</type>
         <magic></magic>
-		<value>2 меди</value>
+		<value>2 медных монеты</value>
 		<weight>0.02</weight>
 		<text>Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.</text>
 		<text />
@@ -134,7 +134,7 @@
 		<name>Blowgun Needles (50)</name>
 		<type>Амуниция</type>
         <magic></magic>
-		<value>1 золота</value>
+		<value>1 золотая монета</value>
 		<weight>1</weight>
 		<text>Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.</text>
 		<text />
@@ -144,7 +144,7 @@
 		<name>Crossbow Bolts</name>
 		<type>Амуниция</type>
         <magic></magic>
-		<value>5 меди</value>
+		<value>5 медных монет</value>
 		<weight>0.075</weight>
 		<text>Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.</text>
 		<text />
@@ -154,7 +154,7 @@
 		<name>Crossbow Bolts (20)</name>
 		<type>Амуниция</type>
         <magic></magic>
-		<value>1 золота</value>
+		<value>1 золотая монета</value>
 		<weight>1.5</weight>
 		<text>Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.</text>
 		<text />
@@ -164,7 +164,7 @@
 		<name>Sling Bullets</name>
 		<type>Амуниция</type>
         <magic></magic>
-		<value>0.2 меди</value>
+		<value>0.2 медных монет</value>
 		<weight>0.075</weight>
 		<text>Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.</text>
 		<text />
@@ -174,7 +174,7 @@
 		<name>Sling Bullets (20)</name>
 		<type>Амуниция</type>
         <magic></magic>
-		<value>4 меди</value>
+		<value>4 медных монеты</value>
 		<weight>1.5</weight>
 		<text>Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.</text>
 		<text />
@@ -184,7 +184,7 @@
 		<name>Abacus</name>
 		<type>G</type>
         <magic></magic>
-		<value>2 золота</value>
+		<value>2 золотых монеты</value>
 		<weight>2</weight>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
@@ -192,7 +192,7 @@
 		<name>Acid (vial)</name>
 		<type>G</type>
         <magic></magic>
-		<value>25 золота</value>
+		<value>25 золотых монет</value>
 		<weight>1</weight>
 		<text>As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object, treating the acid as an improvised weapon. On a hit, the target takes 2d6 acid damage.</text>
 		<text />
@@ -202,7 +202,7 @@
 		<name>Alchemist's Fire (flask)</name>
 		<type>G</type>
         <magic></magic>
-		<value>50 золота</value>
+		<value>50 золотых монет</value>
 		<weight>1</weight>
 		<text>This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged attack against a creature or object, treating the alchemist's fire as an improvised weapon. On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.</text>
 		<text />
@@ -212,7 +212,7 @@
 		<name>Alchemist's Supplies</name>
 		<type>G</type>
         <magic></magic>
-		<value>50 золота</value>
+		<value>50 золотых монет</value>
 		<weight>8</weight>
 		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
 		<text />
@@ -222,7 +222,7 @@
 		<name>Antitoxin</name>
 		<type>G</type>
         <magic></magic>
-		<value>50 золота</value>
+		<value>50 золотых монет</value>
 		<text>A creature that drinks this vial of liquid gains advantage on saving throws against poison for 1 hour. It confers no benefit to undead or constructs.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 151</text>
@@ -231,7 +231,7 @@
 		<name>Backpack</name>
 		<type>G</type>
         <magic></magic>
-		<value>2 золота</value>
+		<value>2 золотых монеты</value>
 		<weight>5</weight>
 		<text>A backpack can hold one cubic foot or 30 pounds of gear. You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.</text>
 		<text />
@@ -241,7 +241,7 @@
 		<name>Bagpipes</name>
 		<type>G</type>
         <magic></magic>
-		<value>30 золота</value>
+		<value>30 золотых монет</value>
 		<weight>6</weight>
 		<text>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument.</text>
 		<text />
@@ -255,7 +255,7 @@
 		<name>Ball Bearings</name>
 		<type>G</type>
         <magic></magic>
-		<value>0.1 меди</value>
+		<value>0.1 медная монета</value>
 		<weight>0.002</weight>
 		<text>As an action, you can spill these tiny metal balls from their pouch to cover a level area 10 feet square. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall prone. A creature moving through the area at half speed doesn't need to make the saving throw.</text>
 		<text />
@@ -265,7 +265,7 @@
 		<name>Barrel</name>
 		<type>G</type>
         <magic></magic>
-		<value>2 золота</value>
+		<value>2 золотых монеты</value>
 		<weight>70</weight>
 		<text>A barrel can hold 40 gallons of liquid or 4 cubic feet of solids.</text>
 		<text />
@@ -275,7 +275,7 @@
 		<name>Basic Poison (vial)</name>
 		<type>G</type>
         <magic></magic>
-		<value>100 золота</value>
+		<value>100 золотых монет</value>
 		<text>You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take 1d4 poison damage. Once applied, the poison retains potency for 1 minute before drying.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 153</text>
@@ -284,7 +284,7 @@
 		<name>Basket</name>
 		<type>G</type>
         <magic></magic>
-		<value>4 серебра</value>
+		<value>4 серебряных монеты</value>
 		<weight>2</weight>
 		<text>A basket holds 2 cubic feet or 40 pounds of gear.</text>
 		<text />
@@ -294,7 +294,7 @@
 		<name>Bedroll</name>
 		<type>G</type>
         <magic></magic>
-		<value>1 золота</value>
+		<value>1 золотая монета</value>
 		<weight>7</weight>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
@@ -302,14 +302,14 @@
 		<name>Bell</name>
 		<type>G</type>
         <magic></magic>
-		<value>1 золота</value>
+		<value>1 золотая монета</value>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
 		<name>Blanket</name>
 		<type>G</type>
         <magic></magic>
-		<value>5 серебра</value>
+		<value>5 серебряных монет</value>
 		<weight>3</weight>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
@@ -317,7 +317,7 @@
 		<name>Block and Tackle</name>
 		<type>G</type>
         <magic></magic>
-		<value>1 золота</value>
+		<value>1 золотая монета</value>
 		<weight>5</weight>
 		<text>A set of pulleys with a cable threaded through them and a hook to attach to objects, a block and tackle allows you to hoist up to four times the weight you can normally lift.</text>
 		<text />
@@ -327,7 +327,7 @@
 		<name>Book</name>
 		<type>G</type>
         <magic></magic>
-		<value>25 золота</value>
+		<value>25 золотых монет</value>
 		<weight>5</weight>
 		<text>A book might contain poetry, historical accounts, information pertaining to a particular field of lore, diagrams and notes on gnomish contraptions, or just about anything else that can be represented using text or pictures. A book of spells is a spellbook (described later in this section).</text>
 		<text />
@@ -337,7 +337,7 @@
 		<name>Brewer's Supplies</name>
 		<type>G</type>
         <magic></magic>
-		<value>20 золота</value>
+		<value>20 золотых монет</value>
 		<weight>9</weight>
 		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
 		<text />
@@ -347,7 +347,7 @@
 		<name>Bucket</name>
 		<type>G</type>
         <magic></magic>
-		<value>5 меди</value>
+		<value>5 медных монеты</value>
 		<weight>2</weight>
 		<text>A bucket holds 3 gallons of liquid or 1/2 cubic foot of solids.</text>
 		<text />
@@ -357,7 +357,7 @@
 		<name>Bullseye Lantern</name>
 		<type>G</type>
         <magic></magic>
-		<value>10 золота</value>
+		<value>10 золотых монет</value>
 		<weight>2</weight>
 		<text>A bullseye lantern casts bright light in a 60-foot cone and dim light for an additional 60 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.</text>
 		<text />
@@ -367,7 +367,7 @@
 		<name>Burglar's Pack</name>
 		<type>G</type>
         <magic></magic>
-		<value>16 золота</value>
+		<value>16 золотых монет</value>
 		<weight>44.5</weight>
 		<text>Includes:</text>
 		<text />
@@ -405,7 +405,7 @@
 		<name>Calligrapher's Supplies</name>
 		<type>G</type>
         <magic></magic>
-		<value>10 золота</value>
+		<value>10 золотых монет</value>
 		<weight>5</weight>
 		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
 		<text />
@@ -425,7 +425,7 @@
 		<name>Caltrops (20)</name>
 		<type>G</type>
         <magic></magic>
-		<value>1 золота</value>
+		<value>1 золотая монета</value>
 		<weight>2</weight>
 		<text>As an action, you can spread a single bag of caltrops to cover a 5-foot-square area. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving and take 1 piercing damage. Until the creature regains at least 1 hit point, its walking speed is reduced by 10 feet. A creature moving through the area at half speed doesn't need to make the saving throw.</text>
 		<text />
@@ -435,7 +435,7 @@
 		<name>Candle</name>
 		<type>G</type>
         <magic></magic>
-		<value>1 меди</value>
+		<value>1 медная монета</value>
 		<text>For 1 hour, a candle sheds bright light in a 5-foot radius and dim light for an additional 5 feet.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 151</text>
@@ -474,7 +474,7 @@
 		<name>Chalk (1 piece)</name>
 		<type>G</type>
         <magic></magic>
-		<value>1 меди</value>
+		<value>1 медная монета</value>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
@@ -529,7 +529,7 @@
 		<name>Cook's Utensils</name>
 		<type>G</type>
         <magic></magic>
-		<value>1 золота</value>
+		<value>1 золотая монета</value>
 		<weight>8</weight>
 		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
 		<text />
@@ -547,7 +547,7 @@
 		<name>Crossbow Bolt Case</name>
 		<type>G</type>
         <magic></magic>
-		<value>1 золота</value>
+		<value>1 золотая монета</value>
 		<weight>1</weight>
 		<text>This wooden case can hold up to twenty crossbow bolts.</text>
 		<text />
@@ -577,7 +577,7 @@
 		<name>Dice Set</name>
 		<type>G</type>
         <magic></magic>
-		<value>1 серебра</value>
+		<value>1 серебряная монета</value>
 		<text>If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 154</text>
@@ -628,7 +628,7 @@
 		<name>Dragonchess Set</name>
 		<type>G</type>
         <magic></magic>
-		<value>1 золота</value>
+		<value>1 золотая монета</value>
 		<weight>0.5</weight>
 		<text>If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</text>
 		<text />
@@ -752,7 +752,7 @@
 		<name>Fishing Tackle</name>
 		<type>G</type>
         <magic></magic>
-		<value>1 золота</value>
+		<value>1 золотая монета</value>
 		<weight>4</weight>
 		<text>This kit includes a wooden rod, silken line, corkwood bobbers, steel hooks, lead sinkers, velvet lures, and narrow netting.</text>
 		<text />
@@ -762,7 +762,7 @@
 		<name>Flask</name>
 		<type>G</type>
         <magic></magic>
-		<value>1 меди</value>
+		<value>1 медная монета</value>
 		<weight>1</weight>
 		<text>A flask holds 1 pint of liquid.</text>
 		<text />
@@ -824,7 +824,7 @@
 		<name>Hammer</name>
 		<type>G</type>
         <magic></magic>
-		<value>1 золота</value>
+		<value>1 золотая монета</value>
 		<weight>3</weight>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
@@ -842,7 +842,7 @@
 		<name>Hempen Rope (50 feet)</name>
 		<type>G</type>
         <magic></magic>
-		<value>1 золота</value>
+		<value>1 золотая монета</value>
 		<weight>10</weight>
 		<text>Rope, whether made of hemp or silk, has 2 hit points and can be burst with a DC 17 Strength check.</text>
 		<text />
@@ -973,7 +973,7 @@
 		<name>Iron Spikes</name>
 		<type>G</type>
         <magic></magic>
-		<value>1 серебра</value>
+		<value>1 серебряная монета</value>
 		<weight>0.5</weight>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
@@ -981,7 +981,7 @@
 		<name>Iron Spikes (10)</name>
 		<type>G</type>
         <magic></magic>
-		<value>1 золота</value>
+		<value>1 золотая монета</value>
 		<weight>5</weight>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
@@ -1009,7 +1009,7 @@
 		<name>Ladder (10-foot)</name>
 		<type>G</type>
         <magic></magic>
-		<value>1 серебра</value>
+		<value>1 серебряная монета</value>
 		<weight>25</weight>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
@@ -1094,7 +1094,7 @@
 		<name>Map or Scroll Case</name>
 		<type>G</type>
         <magic></magic>
-		<value>1 золота</value>
+		<value>1 золотая монета</value>
 		<weight>1</weight>
 		<text>This cylindrical leather case can hold up to ten rolled-up sheets of paper or five rolled-up sheets of parchment.</text>
 		<text />
@@ -1152,7 +1152,7 @@
 		<name>Oil (flask)</name>
 		<type>G</type>
         <magic></magic>
-		<value>1 серебра</value>
+		<value>1 серебряная монета</value>
 		<weight>1</weight>
 		<text>Oil usually comes in a clay flask that holds 1 pint. As an action, you can splash the oil in this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. Make a ranged attack against a target creature or object, treating the oil as an improvised weapon. On a hit, the target is covered in oil. If the target takes any fire damage before the oil dries (after 1 minute), the target takes an additional 5 fire damage from the burning oil. You can also pour a flask of oil on the ground to cover a 5-foot-square area, provided that the surface is level. If lit, the oil burns for 2 rounds and deals 5 fire damage to any creature that enters the area or ends its turn in the area. A creature can take this damage only once per turn.</text>
 		<text />
@@ -1203,7 +1203,7 @@
 		<name>Parchment (one sheet)</name>
 		<type>G</type>
         <magic></magic>
-		<value>1 серебра</value>
+		<value>1 серебряная монета</value>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
@@ -1322,7 +1322,7 @@
 		<name>Quiver</name>
 		<type>G</type>
         <magic></magic>
-		<value>1 золота</value>
+		<value>1 золотая монета</value>
 		<weight>1</weight>
 		<text>A quiver can hold up to 20 arrows.</text>
 		<text />
@@ -1342,7 +1342,7 @@
 		<name>Robes</name>
 		<type>G</type>
         <magic></magic>
-		<value>1 золота</value>
+		<value>1 золотая монета</value>
 		<weight>4</weight>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
@@ -1360,7 +1360,7 @@
 		<name>Sack</name>
 		<type>G</type>
         <magic></magic>
-		<value>1 меди</value>
+		<value>1 медная монета</value>
 		<weight>0.5</weight>
 		<text>A sack can hold up to 1 cubic foot or 30 pounds of gear.</text>
 		<text />
@@ -1482,7 +1482,7 @@
 		<name>Sprig of Mistletoe</name>
 		<type>G</type>
         <magic></magic>
-		<value>1 золота</value>
+		<value>1 золотая монета</value>
 		<text>A druid can use such a druidic focus as a spellcasting focus, using it in place of any material component that does not have a cost.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 151</text>
@@ -1519,7 +1519,7 @@
 		<name>Tankard</name>
 		<type>G</type>
         <magic></magic>
-		<value>1 меди</value>
+		<value>1 медная монета</value>
 		<text>A tankard holds 1 pint of liquid.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 153</text>
@@ -1538,7 +1538,7 @@
 		<name>Three-Dragon Ante Set</name>
 		<type>G</type>
         <magic></magic>
-		<value>1 золота</value>
+		<value>1 золотая монета</value>
 		<text>If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 154</text>
@@ -1567,7 +1567,7 @@
 		<name>Torch</name>
 		<type>G</type>
         <magic></magic>
-		<value>1 меди</value>
+		<value>1 медная монета</value>
 		<weight>1</weight>
 		<text>A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.</text>
 		<text />
@@ -1577,7 +1577,7 @@
 		<name>Totem</name>
 		<type>G</type>
         <magic></magic>
-		<value>1 золота</value>
+		<value>1 золотая монета</value>
 		<text>A druid can use such a druidic focus as a spellcasting focus, using it in place of any material component that does not have a cost.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 151</text>
@@ -1604,7 +1604,7 @@
 		<name>Vial</name>
 		<type>G</type>
         <magic></magic>
-		<value>1 золота</value>
+		<value>1 золотая монета</value>
 		<text>A vial can hold up to 4 ounces of liquid.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 153</text>
@@ -1647,7 +1647,7 @@
 		<name>Weaver's Tools</name>
 		<type>G</type>
         <magic></magic>
-		<value>1 золота</value>
+		<value>1 золотая монета</value>
 		<weight>5</weight>
 		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
 		<text />
@@ -1657,7 +1657,7 @@
 		<name>Whetstone</name>
 		<type>G</type>
         <magic></magic>
-		<value>1 меди</value>
+		<value>1 медная монета</value>
 		<weight>1</weight>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
@@ -1665,7 +1665,7 @@
 		<name>Woodcarver's Tools</name>
 		<type>G</type>
         <magic></magic>
-		<value>1 золота</value>
+		<value>1 золотая монета</value>
 		<weight>5</weight>
 		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
 		<text />
@@ -1794,7 +1794,7 @@
 		<name>Club</name>
 		<type>M</type>
         <magic></magic>
-		<value>1 серебра</value>
+		<value>1 серебряная монета</value>
 		<weight>2</weight>
 		<dmg1>1d4</dmg1>
 		<dmgType>B</dmgType>
@@ -2102,7 +2102,7 @@
 		<name>Sickle</name>
 		<type>M</type>
         <magic></magic>
-		<value>1 золота</value>
+		<value>1 золотая монета</value>
 		<weight>2</weight>
 		<dmg1>1d4</dmg1>
 		<dmgType>S</dmgType>
@@ -2115,7 +2115,7 @@
 		<name>Spear</name>
 		<type>M</type>
         <magic></magic>
-		<value>1 золота</value>
+		<value>1 золотая монета</value>
 		<weight>3</weight>
 		<dmg1>1d6</dmg1>
 		<dmg2>1d8</dmg2>
@@ -2377,7 +2377,7 @@
 		<name>Net</name>
 		<type>R</type>
         <magic></magic>
-		<value>1 золота</value>
+		<value>1 золотая монета</value>
 		<weight>3</weight>
 		<property>S,T</property>
 		<range>5/15</range>
@@ -2413,7 +2413,7 @@
 		<name>Sling</name>
 		<type>R</type>
         <magic></magic>
-		<value>1 серебра</value>
+		<value>1 серебряная монета</value>
 		<dmg1>1d4</dmg1>
 		<dmgType>B</dmgType>
 		<property>A</property>

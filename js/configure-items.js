@@ -23,7 +23,7 @@ function initDataTable() {
       ;
       */
     
-    var multiplierStr=s.toLowerCase()
+   /* var multiplierStr=s.toLowerCase()
       .replace(/[0-9]*\.?[0-9]+/,"")
       .replace("pp","1000")
       .replace("gp","100")
@@ -31,6 +31,17 @@ function initDataTable() {
       .replace("cp","1")
       .replace("ep","50")
       ;
+
+    */
+    var multiplierStr=s.toLowerCase();
+    if (/платин/.test(multiplierStr)) {multiplierStr="1000"};
+    if (/золот/.test(multiplierStr)) {multiplierStr="100"};
+    if (/серебр/.test(multiplierStr)) {multiplierStr="10"};
+    if (/мед/.test(multiplierStr)) {multiplierStr="1"};
+    if (/электр/.test(multiplierStr)) {multiplierStr="50"};
+
+
+
     var base=parseFloat(s);
     var multiplier=parseInt(multiplierStr);
     var copperprice=base*multiplier;
@@ -192,18 +203,18 @@ function addInfoToContainerFromGlobalString (i) {
     var property=$(xml).find("item:eq("+i+") > property").text();
     var range=$(xml).find("item:eq("+i+") > range").text();
 
-
-    text+="<strong>Тип: </strong>"+type+"<br />";
-    text+="<strong>Вес: </strong>"+weight+"<br />";
-    text+="<strong>Стоимость: </strong>"+value+"<br />";
-    if (ac) { text+="<strong>Класс Доспех: </strong>"+ac+"<br />" };
+    if (type) { text+="<strong>Тип: </strong>"+type+"<br />"; };
+    if (weight) { text+="<strong>Вес: </strong>"+weight+"<br />"; };
+    if (value) { text+="<strong>Стоимость: </strong>"+value+"<br />"; };
     if (strength) { text+="<strong>Требуется СИЛ: </strong>"+strength+"<br />" };
-    if (stealth) { text+="<strong>Помехи на броски Скрытности</strong><br />" };
-    if (dmg1) { text+="<strong>Урон 1: </strong>"+dmg1+"<br />" };
-    if (dmg2) { text+="<strong>Урон 2: </strong>"+dmg2+"<br />" };
+    if (ac) { text+="<strong>Класс Доспех: </strong>"+ac+"<br />" };
+    if (dmg1) { text+="<strong>Урон: </strong>"+dmg1+"<br />" };
+    if (dmg2) { text+="<strong>Урон: </strong>"+dmg2+"<br />" };
     if (dmgType) { text+="<strong>Тип урона: </strong>"+dmgType+"<br />" };
     if (property) { text+="<strong>Свойства: </strong>"+property+"<br />" };
     if (range) { text+="<strong>Дистанция: </strong>"+range+"<br />" };
+    if (stealth) { text+="<strong>Помеха на проверки Скрытности: </strong>Да<br />" };
+
     text+="<br />";
     $(xml).find("item:eq("+i+") > text").each(function() {
       text+=$(this).text()+'<br />';
