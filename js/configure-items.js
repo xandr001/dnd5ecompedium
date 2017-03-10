@@ -12,17 +12,6 @@ function initDataTable() {
   },
   format: function(s, table, cell, cellIndex) {
     // format your data for normalization
-     /*
-     var multiplierStr=s.toLowerCase()
-      .replace(/[0-9]*\.?[0-9]+/,"")
-      .replace(" платины","1000")
-      .replace(" золота","100")
-      .replace(" серебра","10")
-      .replace(" меди","1")
-      .replace(" электрума","50")
-      ;
-      */
-    
    /* var multiplierStr=s.toLowerCase()
       .replace(/[0-9]*\.?[0-9]+/,"")
       .replace("pp","1000")
@@ -33,6 +22,19 @@ function initDataTable() {
       ;
 
     */
+   
+     /*
+     var multiplierStr=s.toLowerCase()
+      .replace(/[0-9]*\.?[0-9]+/,"")
+      .replace(/ /g,"")
+      .replace("пм","1000")
+      .replace("зм","100")
+      .replace("см","10")
+      .replace("мм","1")
+      .replace("эм","50")
+      ;
+      */
+   
     var multiplierStr=s.toLowerCase();
     if (/платин/.test(multiplierStr)) {multiplierStr="1000"};
     if (/золот/.test(multiplierStr)) {multiplierStr="100"};
