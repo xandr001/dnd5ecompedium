@@ -1,3 +1,6 @@
+var xmlurl='https://raw.githubusercontent.com/xandr001/dnd5ecompedium/master/Data/Items/Mundane%20Items.xml'
+//var xmlurl='Data/Items/Mundane%20Items.xml'
+
 function initDataTable() {
   
   $.tablesorter.addParser({
@@ -94,39 +97,65 @@ function initDataTable() {
 
 };
 
+function fetchDataTableFromXMLToGlobalString () {
 
-$(document).ready(function() {
-      initDataTable() ;
       $.ajax({
       type: "GET",
-	    url: 'Data/Items/Mundane%20Items.xml',
+	    url: xmlurl,
+      dataType: "text",
+      success: function(xmltext) {
+        window.datatablexml = $.parseXML(xmltext);
+        var i=1;
+		    $(window.datatablexml).find("item").each(function() {
+        var name=$(this).find(' > name').text()
+		    var type=$(this).find(' > type').text()
+        var value=$(this).find(' > value').text()
+		    var weight=$(this).find(' > weight').text()
+		    var text=$(this).find(' > text').text()
+		  
+		  $('#DataTable > tbody').append('<tr onClick="showInfo('+i+')"><td>' + name +'</td><td>' + type +'</td><td>' + value +'</td><td>' + weight +'</td></tr>');
+		  i++;
+        })
+        $("#DataTable").trigger("update");
+      }
+    });
+};
+
+function fetchDataTableFromXML () {
+
+      $.ajax({
+      type: "GET",
+	    url: xmlurl,
       dataType: "xml",
       success: function(xml) {
         var i=1;
 		$(xml).find("item").each(function() {
-          var name=$(this).find(' > name').text()
+      var name=$(this).find(' > name').text()
 		  var type=$(this).find(' > type').text()
-          var value=$(this).find(' > value').text()
+      var value=$(this).find(' > value').text()
 		  var weight=$(this).find(' > weight').text()
 		  var text=$(this).find(' > text').text()
 		  
 		  $('#DataTable > tbody').append('<tr onClick="showInfo('+i+')"><td>' + name +'</td><td>' + type +'</td><td>' + value +'</td><td>' + weight +'</td></tr>');
-      //$("table").trigger("update");
 		  i++;
         })
-        $("table").trigger("update");
+        $("#DataTable").trigger("update");
        }
     });
+};
+
+$(document).ready(function() {
+  initDataTable() ;
+  fetchDataTableFromXMLToGlobalString();
+  //fetchDataTableFromXML();    
     
      
  });
  
- function showInfo(i) {
-   $('#modal-container-665355 .modal-body').html('Загрузка...'); 
-   $('#modal-container-665355 .modal-title').html(''); 
-   $.ajax({
+function addInfoToContainerFromXML (i) {
+$.ajax({
       type: "GET",
-	    url: 'Data/Items/Mundane%20Items.xml',
+	    url: xmlurl,
       dataType: "xml",
       success: function(xml) {
 		    i--;
@@ -143,6 +172,52 @@ $(document).ready(function() {
       
 	  }	
     });
-   $("table").trigger("update");
+}; 
+
+function addInfoToContainerFromGlobalString (i) {
+    i--;
+    var text="";
+    var xml = $( window.datatablexml );
+    var name=$(xml).find("item:eq("+i+") > name").text();
+    var type=$(xml).find("item:eq("+i+") > type").text();
+    var weight=$(xml).find("item:eq("+i+") > weight").text();
+    var value=$(xml).find("item:eq("+i+") > value").text();
+    //optional
+    var ac=$(xml).find("item:eq("+i+") > ac").text();
+    var strength=$(xml).find("item:eq("+i+") > strength").text();
+    var stealth=$(xml).find("item:eq("+i+") > stealth").text();
+    var dmg1=$(xml).find("item:eq("+i+") > dmg1").text();
+    var dmg2=$(xml).find("item:eq("+i+") > dmg2").text();
+    var dmgType=$(xml).find("item:eq("+i+") > dmgType").text();
+    var property=$(xml).find("item:eq("+i+") > property").text();
+    var range=$(xml).find("item:eq("+i+") > range").text();
+
+
+    text+="<strong>Тип: </strong>"+type+"<br />";
+    text+="<strong>Вес: </strong>"+weight+"<br />";
+    text+="<strong>Стоимость: </strong>"+value+"<br />";
+    if (ac) { text+="<strong>Класс Доспех: </strong>"+ac+"<br />" };
+    if (strength) { text+="<strong>Требуется СИЛ: </strong>"+strength+"<br />" };
+    if (stealth) { text+="<strong>Помехи на броски Скрытности</strong><br />" };
+    if (dmg1) { text+="<strong>Урон 1: </strong>"+dmg1+"<br />" };
+    if (dmg2) { text+="<strong>Урон 2: </strong>"+dmg2+"<br />" };
+    if (dmgType) { text+="<strong>Тип урона: </strong>"+dmgType+"<br />" };
+    if (property) { text+="<strong>Свойства: </strong>"+property+"<br />" };
+    if (range) { text+="<strong>Дистанция: </strong>"+range+"<br />" };
+    text+="<br />";
+    $(xml).find("item:eq("+i+") > text").each(function() {
+      text+=$(this).text()+'<br />';
+    });
+    $('#modal-container-665355 .modal-body').html(text); 
+    $('#modal-container-665355 .modal-title').html(name); 
+
+};
+
+function showInfo(i) {
+   $('#modal-container-665355 .modal-body').html('Загрузка...'); 
+   $('#modal-container-665355 .modal-title').html(''); 
+   //addInfoToContainerFromXML(i);
+   addInfoToContainerFromGlobalString(i);
+   $("#DataTable").trigger("update");
    $('#modal-container-665355').modal('show');
  };
