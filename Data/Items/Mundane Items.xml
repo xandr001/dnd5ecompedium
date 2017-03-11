@@ -1,259 +1,259 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5">
 	<item>
-		<name>Copper (cp)</name>
+		<name>Медные монеты (мм)</name>
 		<type>$</type>
         <magic></magic>
-		<value>1 медная монета</value>
+		<value>1 мм</value>
 		<weight>0.02</weight>
-		<text>Common coins come in several different denominations based on the relative worth of the metal from which they are made. The three most common coins are the gold piece (gp), the silver piece (sp), and the copper piece (cp).</text>
+		<text>Монеты делают разного номинала, основываясь на относительной стоимости металла, из которого они изготовлены. Чаще всего встречаются монеты трёх видов: золотые монеты (зм), серебряные монеты (см) и медные монеты (мм).</text>
 		<text />
-		<text>With one gold piece, a character can buy a belt pouch, 50 feet of good rope, or a goat. A skilled (but not exceptional) artisan can earn one gold piece a day. The gold piece is the standard unit of measure for wealth, even if the coin itself is not commonly used. When merchants discuss deals that involve goods or services worth hundreds or thousands of gold pieces, the transactions don't usually involve the exchange of individual coins. Rather, the gold piece is a standard measure of value, and the actual exchange is in gold bars, letters of credit, or valuable goods.</text>
+		<text>На одну золотую монету персонаж может купить поясной кошель, 50 футов хорошей верёвки или козу. Опытный (но не виртуозный) ремесленник может зарабатывать одну золотую монету в день. Золотая монета — стандартная единица измерения богатства, даже если при этом сами монеты не используются. Когда торговцы обсуждают сделки, товары и услуги, стоящие сотни тысяч золотых монет, обмен таким бешеным количеством монет не происходит. Просто это единица измерения богатства, и настоящий обмен производится золотыми слитками, кредитными письмами и ценными товарами.</text>
 		<text />
-		<text>One gold piece is worth ten silver pieces, the most prevalent coin among commoners. A silver piece buys a laborer's work for a day, a flask of lamp oil, or a night's rest in a poor inn.</text>
+		<text>Одна золотая монета стоит десять серебряных монет, распространённых среди обывателей. Серебряная монета оплачивает один день чернорабочего, флягу лампового масла или одну ночь на захудалом постоялом дворе.</text>
 		<text />
-		<text>One silver piece is worth ten copper pieces, which are common among laborers and beggars. A single copper piece buys a candle, a torch, or a piece of chalk.</text>
+		<text>Одна серебряная монета стоит десять медных монет, распространённых среди чернорабочих и нищих. За одну медную монету можно купить свечу, факел или кусочек мела.</text>
 		<text />
-		<text>In addition, unusual coins made of other precious metals sometimes appear in treasure hoards. The electrum piece (ep) and the platinum piece (pp) originate from fallen empires and lost kingdoms, and they sometimes arouse suspicion and skepticism when used in transactions. An electrum piece is worth five silver pieces, and a platinum piece is worth ten gold pieces.</text>
+		<text>Иногда в грудах сокровищ попадаются необычные монеты, сделанные из других драгоценных металлов. Монеты из электрума (эм) и платины (пм) были в обращении в древних империях и королевствах, и при оплате ими они иногда вызывают подозрения. Монета из электрума стоит пять серебряных монет? а из платины — десять золотых.</text>
 		<text />
-		<text>A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.</text>
+		<text>Стандартная монета весит 9 грамм, так что пятьдесят любых монет весят полкилограмма или 1 фунт.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 143</text>
 	</item>
 	<item>
-		<name>Electrum (ep)</name>
+		<name>Электрумовые монеты (эм)</name>
 		<type>$</type>
         <magic></magic>
-		<value>1 электрумовая монета</value>
+		<value>1 эм</value>
 		<weight>0.02</weight>
-		<text>Common coins come in several different denominations based on the relative worth of the metal from which they are made. The three most common coins are the gold piece (gp), the silver piece (sp), and the copper piece (cp).</text>
+		<text>Монеты делают разного номинала, основываясь на относительной стоимости металла, из которого они изготовлены. Чаще всего встречаются монеты трёх видов: золотые монеты (зм), серебряные монеты (см) и медные монеты (мм).</text>
 		<text />
-		<text>With one gold piece, a character can buy a belt pouch, 50 feet of good rope, or a goat. A skilled (but not exceptional) artisan can earn one gold piece a day. The gold piece is the standard unit of measure for wealth, even if the coin itself is not commonly used. When merchants discuss deals that involve goods or services worth hundreds or thousands of gold pieces, the transactions don't usually involve the exchange of individual coins. Rather, the gold piece is a standard measure of value, and the actual exchange is in gold bars, letters of credit, or valuable goods.</text>
+		<text>На одну золотую монету персонаж может купить поясной кошель, 50 футов хорошей верёвки или козу. Опытный (но не виртуозный) ремесленник может зарабатывать одну золотую монету в день. Золотая монета — стандартная единица измерения богатства, даже если при этом сами монеты не используются. Когда торговцы обсуждают сделки, товары и услуги, стоящие сотни тысяч золотых монет, обмен таким бешеным количеством монет не происходит. Просто это единица измерения богатства, и настоящий обмен производится золотыми слитками, кредитными письмами и ценными товарами.</text>
 		<text />
-		<text>One gold piece is worth ten silver pieces, the most prevalent coin among commoners. A silver piece buys a laborer's work for a day, a flask of lamp oil, or a night's rest in a poor inn.</text>
+		<text>Одна золотая монета стоит десять серебряных монет, распространённых среди обывателей. Серебряная монета оплачивает один день чернорабочего, флягу лампового масла или одну ночь на захудалом постоялом дворе.</text>
 		<text />
-		<text>One silver piece is worth ten copper pieces, which are common among laborers and beggars. A single copper piece buys a candle, a torch, or a piece of chalk.</text>
+		<text>Одна серебряная монета стоит десять медных монет, распространённых среди чернорабочих и нищих. За одну медную монету можно купить свечу, факел или кусочек мела.</text>
 		<text />
-		<text>In addition, unusual coins made of other precious metals sometimes appear in treasure hoards. The electrum piece (ep) and the platinum piece (pp) originate from fallen empires and lost kingdoms, and they sometimes arouse suspicion and skepticism when used in transactions. An electrum piece is worth five silver pieces, and a platinum piece is worth ten gold pieces.</text>
+		<text>Иногда в грудах сокровищ попадаются необычные монеты, сделанные из других драгоценных металлов. Монеты из электрума (эм) и платины (пм) были в обращении в древних империях и королевствах, и при оплате ими они иногда вызывают подозрения. Монета из электрума стоит пять серебряных монет? а из платины — десять золотых.</text>
 		<text />
-		<text>A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.</text>
+		<text>Стандартная монета весит 9 грамм, так что пятьдесят любых монет весят полкилограмма или 1 фунт.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 143</text>
 	</item>
 	<item>
-		<name>Gold (gp)</name>
+		<name>Золотые монеты (зм)</name>
 		<type>$</type>
         <magic></magic>
-		<value>1 золотая монета</value>
+		<value>1 зм</value>
 		<weight>0.02</weight>
-		<text>Common coins come in several different denominations based on the relative worth of the metal from which they are made. The three most common coins are the gold piece (gp), the silver piece (sp), and the copper piece (cp).</text>
+		<text>Монеты делают разного номинала, основываясь на относительной стоимости металла, из которого они изготовлены. Чаще всего встречаются монеты трёх видов: золотые монеты (зм), серебряные монеты (см) и медные монеты (мм).</text>
 		<text />
-		<text>With one gold piece, a character can buy a belt pouch, 50 feet of good rope, or a goat. A skilled (but not exceptional) artisan can earn one gold piece a day. The gold piece is the standard unit of measure for wealth, even if the coin itself is not commonly used. When merchants discuss deals that involve goods or services worth hundreds or thousands of gold pieces, the transactions don't usually involve the exchange of individual coins. Rather, the gold piece is a standard measure of value, and the actual exchange is in gold bars, letters of credit, or valuable goods.</text>
+		<text>На одну золотую монету персонаж может купить поясной кошель, 50 футов хорошей верёвки или козу. Опытный (но не виртуозный) ремесленник может зарабатывать одну золотую монету в день. Золотая монета — стандартная единица измерения богатства, даже если при этом сами монеты не используются. Когда торговцы обсуждают сделки, товары и услуги, стоящие сотни тысяч золотых монет, обмен таким бешеным количеством монет не происходит. Просто это единица измерения богатства, и настоящий обмен производится золотыми слитками, кредитными письмами и ценными товарами.</text>
 		<text />
-		<text>One gold piece is worth ten silver pieces, the most prevalent coin among commoners. A silver piece buys a laborer's work for a day, a flask of lamp oil, or a night's rest in a poor inn.</text>
+		<text>Одна золотая монета стоит десять серебряных монет, распространённых среди обывателей. Серебряная монета оплачивает один день чернорабочего, флягу лампового масла или одну ночь на захудалом постоялом дворе.</text>
 		<text />
-		<text>One silver piece is worth ten copper pieces, which are common among laborers and beggars. A single copper piece buys a candle, a torch, or a piece of chalk.</text>
+		<text>Одна серебряная монета стоит десять медных монет, распространённых среди чернорабочих и нищих. За одну медную монету можно купить свечу, факел или кусочек мела.</text>
 		<text />
-		<text>In addition, unusual coins made of other precious metals sometimes appear in treasure hoards. The electrum piece (ep) and the platinum piece (pp) originate from fallen empires and lost kingdoms, and they sometimes arouse suspicion and skepticism when used in transactions. An electrum piece is worth five silver pieces, and a platinum piece is worth ten gold pieces.</text>
+		<text>Иногда в грудах сокровищ попадаются необычные монеты, сделанные из других драгоценных металлов. Монеты из электрума (эм) и платины (пм) были в обращении в древних империях и королевствах, и при оплате ими они иногда вызывают подозрения. Монета из электрума стоит пять серебряных монет? а из платины — десять золотых.</text>
 		<text />
-		<text>A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.</text>
+		<text>Стандартная монета весит 9 грамм, так что пятьдесят любых монет весят полкилограмма или 1 фунт.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 143</text>
 	</item>
 	<item>
-		<name>Platinum (pp)</name>
+		<name>Платиновые монеты (пм)</name>
 		<type>$</type>
         <magic></magic>
-		<value>1 платиновая монета</value>
+		<value>1 пм</value>
 		<weight>0.02</weight>
-		<text>Common coins come in several different denominations based on the relative worth of the metal from which they are made. The three most common coins are the gold piece (gp), the silver piece (sp), and the copper piece (cp).</text>
+		<text>Монеты делают разного номинала, основываясь на относительной стоимости металла, из которого они изготовлены. Чаще всего встречаются монеты трёх видов: золотые монеты (зм), серебряные монеты (см) и медные монеты (мм).</text>
 		<text />
-		<text>With one gold piece, a character can buy a belt pouch, 50 feet of good rope, or a goat. A skilled (but not exceptional) artisan can earn one gold piece a day. The gold piece is the standard unit of measure for wealth, even if the coin itself is not commonly used. When merchants discuss deals that involve goods or services worth hundreds or thousands of gold pieces, the transactions don't usually involve the exchange of individual coins. Rather, the gold piece is a standard measure of value, and the actual exchange is in gold bars, letters of credit, or valuable goods.</text>
+		<text>На одну золотую монету персонаж может купить поясной кошель, 50 футов хорошей верёвки или козу. Опытный (но не виртуозный) ремесленник может зарабатывать одну золотую монету в день. Золотая монета — стандартная единица измерения богатства, даже если при этом сами монеты не используются. Когда торговцы обсуждают сделки, товары и услуги, стоящие сотни тысяч золотых монет, обмен таким бешеным количеством монет не происходит. Просто это единица измерения богатства, и настоящий обмен производится золотыми слитками, кредитными письмами и ценными товарами.</text>
 		<text />
-		<text>One gold piece is worth ten silver pieces, the most prevalent coin among commoners. A silver piece buys a laborer's work for a day, a flask of lamp oil, or a night's rest in a poor inn.</text>
+		<text>Одна золотая монета стоит десять серебряных монет, распространённых среди обывателей. Серебряная монета оплачивает один день чернорабочего, флягу лампового масла или одну ночь на захудалом постоялом дворе.</text>
 		<text />
-		<text>One silver piece is worth ten copper pieces, which are common among laborers and beggars. A single copper piece buys a candle, a torch, or a piece of chalk.</text>
+		<text>Одна серебряная монета стоит десять медных монет, распространённых среди чернорабочих и нищих. За одну медную монету можно купить свечу, факел или кусочек мела.</text>
 		<text />
-		<text>In addition, unusual coins made of other precious metals sometimes appear in treasure hoards. The electrum piece (ep) and the platinum piece (pp) originate from fallen empires and lost kingdoms, and they sometimes arouse suspicion and skepticism when used in transactions. An electrum piece is worth five silver pieces, and a platinum piece is worth ten gold pieces.</text>
+		<text>Иногда в грудах сокровищ попадаются необычные монеты, сделанные из других драгоценных металлов. Монеты из электрума (эм) и платины (пм) были в обращении в древних империях и королевствах, и при оплате ими они иногда вызывают подозрения. Монета из электрума стоит пять серебряных монет? а из платины — десять золотых.</text>
 		<text />
-		<text>A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.</text>
+		<text>Стандартная монета весит 9 грамм, так что пятьдесят любых монет весят полкилограмма или 1 фунт.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 143</text>
 	</item>
 	<item>
-		<name>Silver (sp)</name>
+		<name>Серебряные монеты (см)</name>
 		<type>$</type>
         <magic></magic>
-		<value>1 серебряная монета</value>
+		<value>1 см</value>
 		<weight>0.02</weight>
-		<text>Common coins come in several different denominations based on the relative worth of the metal from which they are made. The three most common coins are the gold piece (gp), the silver piece (sp), and the copper piece (cp).</text>
+		<text>Монеты делают разного номинала, основываясь на относительной стоимости металла, из которого они изготовлены. Чаще всего встречаются монеты трёх видов: золотые монеты (зм), серебряные монеты (см) и медные монеты (мм).</text>
 		<text />
-		<text>With one gold piece, a character can buy a belt pouch, 50 feet of good rope, or a goat. A skilled (but not exceptional) artisan can earn one gold piece a day. The gold piece is the standard unit of measure for wealth, even if the coin itself is not commonly used. When merchants discuss deals that involve goods or services worth hundreds or thousands of gold pieces, the transactions don't usually involve the exchange of individual coins. Rather, the gold piece is a standard measure of value, and the actual exchange is in gold bars, letters of credit, or valuable goods.</text>
+		<text>На одну золотую монету персонаж может купить поясной кошель, 50 футов хорошей верёвки или козу. Опытный (но не виртуозный) ремесленник может зарабатывать одну золотую монету в день. Золотая монета — стандартная единица измерения богатства, даже если при этом сами монеты не используются. Когда торговцы обсуждают сделки, товары и услуги, стоящие сотни тысяч золотых монет, обмен таким бешеным количеством монет не происходит. Просто это единица измерения богатства, и настоящий обмен производится золотыми слитками, кредитными письмами и ценными товарами.</text>
 		<text />
-		<text>One gold piece is worth ten silver pieces, the most prevalent coin among commoners. A silver piece buys a laborer's work for a day, a flask of lamp oil, or a night's rest in a poor inn.</text>
+		<text>Одна золотая монета стоит десять серебряных монет, распространённых среди обывателей. Серебряная монета оплачивает один день чернорабочего, флягу лампового масла или одну ночь на захудалом постоялом дворе.</text>
 		<text />
-		<text>One silver piece is worth ten copper pieces, which are common among laborers and beggars. A single copper piece buys a candle, a torch, or a piece of chalk.</text>
+		<text>Одна серебряная монета стоит десять медных монет, распространённых среди чернорабочих и нищих. За одну медную монету можно купить свечу, факел или кусочек мела.</text>
 		<text />
-		<text>In addition, unusual coins made of other precious metals sometimes appear in treasure hoards. The electrum piece (ep) and the platinum piece (pp) originate from fallen empires and lost kingdoms, and they sometimes arouse suspicion and skepticism when used in transactions. An electrum piece is worth five silver pieces, and a platinum piece is worth ten gold pieces.</text>
+		<text>Иногда в грудах сокровищ попадаются необычные монеты, сделанные из других драгоценных металлов. Монеты из электрума (эм) и платины (пм) были в обращении в древних империях и королевствах, и при оплате ими они иногда вызывают подозрения. Монета из электрума стоит пять серебряных монет? а из платины — десять золотых.</text>
 		<text />
-		<text>A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.</text>
+		<text>Стандартная монета весит 9 грамм, так что пятьдесят любых монет весят полкилограмма или 1 фунт.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 143</text>
 	</item>
 	<item>
-		<name>Arrows</name>
-		<type>Амуниция</type>
+		<name>Стрела</name>
+		<type>Боеприпас</type>
         <magic></magic>
-		<value>5 медных монет</value>
+		<value>5 мм</value>
 		<weight>0.05</weight>
-		<text>Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.</text>
+		<text>Боеприпас. Вы можете использовать оружие со свойством «боеприпас» для совершения дальнобойной атаки только если у вас есть боеприпасы для стрельбы. Каждый раз, когда вы совершаете атаку с помощью этого оружия, вы тратите один боеприпас. Вынимается боеприпас из колчана или другого контейнера частью атаки. Для зарядки одноручного оружия требуется одна свободная рука. В конце сражения вы восстанавливаете половину использованных боеприпасов, потратив минуту на поиски на поле боя.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Arrows (20)</name>
-		<type>Амуниция</type>
+		<name>Стрелы (20)</name>
+		<type>Боеприпас</type>
         <magic></magic>
-		<value>1 золотая монета</value>
+		<value>1 зм</value>
 		<weight>1</weight>
-		<text>Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.</text>
+		<text>Боеприпас. Вы можете использовать оружие со свойством «боеприпас» для совершения дальнобойной атаки только если у вас есть боеприпасы для стрельбы. Каждый раз, когда вы совершаете атаку с помощью этого оружия, вы тратите один боеприпас. Вынимается боеприпас из колчана или другого контейнера частью атаки. Для зарядки одноручного оружия требуется одна свободная рука. В конце сражения вы восстанавливаете половину использованных боеприпасов, потратив минуту на поиски на поле боя.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Blowgun Needles</name>
-		<type>Амуниция</type>
+		<name>Игла для трубки</name>
+		<type>Боеприпас</type>
         <magic></magic>
-		<value>2 медных монеты</value>
+		<value>2 мм</value>
 		<weight>0.02</weight>
-		<text>Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.</text>
+		<text>Боеприпас. Вы можете использовать оружие со свойством «боеприпас» для совершения дальнобойной атаки только если у вас есть боеприпасы для стрельбы. Каждый раз, когда вы совершаете атаку с помощью этого оружия, вы тратите один боеприпас. Вынимается боеприпас из колчана или другого контейнера частью атаки. Для зарядки одноручного оружия требуется одна свободная рука. В конце сражения вы восстанавливаете половину использованных боеприпасов, потратив минуту на поиски на поле боя.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Blowgun Needles (50)</name>
-		<type>Амуниция</type>
+		<name>Иглы для трубки (50)</name>
+		<type>Боеприпас</type>
         <magic></magic>
-		<value>1 золотая монета</value>
+		<value>1 зм</value>
 		<weight>1</weight>
-		<text>Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.</text>
+		<text>Боеприпас. Вы можете использовать оружие со свойством «боеприпас» для совершения дальнобойной атаки только если у вас есть боеприпасы для стрельбы. Каждый раз, когда вы совершаете атаку с помощью этого оружия, вы тратите один боеприпас. Вынимается боеприпас из колчана или другого контейнера частью атаки. Для зарядки одноручного оружия требуется одна свободная рука. В конце сражения вы восстанавливаете половину использованных боеприпасов, потратив минуту на поиски на поле боя.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Crossbow Bolts</name>
-		<type>Амуниция</type>
+		<name>Арбалетный болт</name>
+		<type>Боеприпас</type>
         <magic></magic>
-		<value>5 медных монет</value>
+		<value>5 мм</value>
 		<weight>0.075</weight>
-		<text>Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.</text>
+		<text>Боеприпас. Вы можете использовать оружие со свойством «боеприпас» для совершения дальнобойной атаки только если у вас есть боеприпасы для стрельбы. Каждый раз, когда вы совершаете атаку с помощью этого оружия, вы тратите один боеприпас. Вынимается боеприпас из колчана или другого контейнера частью атаки. Для зарядки одноручного оружия требуется одна свободная рука. В конце сражения вы восстанавливаете половину использованных боеприпасов, потратив минуту на поиски на поле боя.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Crossbow Bolts (20)</name>
-		<type>Амуниция</type>
+		<name>Арбалетные болты (20)</name>
+		<type>Боеприпас</type>
         <magic></magic>
-		<value>1 золотая монета</value>
+		<value>1 зм</value>
 		<weight>1.5</weight>
-		<text>Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.</text>
+		<text>Боеприпас. Вы можете использовать оружие со свойством «боеприпас» для совершения дальнобойной атаки только если у вас есть боеприпасы для стрельбы. Каждый раз, когда вы совершаете атаку с помощью этого оружия, вы тратите один боеприпас. Вынимается боеприпас из колчана или другого контейнера частью атаки. Для зарядки одноручного оружия требуется одна свободная рука. В конце сражения вы восстанавливаете половину использованных боеприпасов, потратив минуту на поиски на поле боя.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Sling Bullets</name>
-		<type>Амуниция</type>
+		<name>Снаряд для пращи</name>
+		<type>Боеприпас</type>
         <magic></magic>
-		<value>0.2 медных монет</value>
+		<value>0.2 мм</value>
 		<weight>0.075</weight>
-		<text>Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.</text>
+		<text>Боеприпас. Вы можете использовать оружие со свойством «боеприпас» для совершения дальнобойной атаки только если у вас есть боеприпасы для стрельбы. Каждый раз, когда вы совершаете атаку с помощью этого оружия, вы тратите один боеприпас. Вынимается боеприпас из колчана или другого контейнера частью атаки. Для зарядки одноручного оружия требуется одна свободная рука. В конце сражения вы восстанавливаете половину использованных боеприпасов, потратив минуту на поиски на поле боя.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Sling Bullets (20)</name>
-		<type>Амуниция</type>
+		<name>Снаряды для пращи (20)</name>
+		<type>Боеприпас</type>
         <magic></magic>
-		<value>4 медных монеты</value>
+		<value>4 мм</value>
 		<weight>1.5</weight>
-		<text>Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.</text>
+		<text>Боеприпас. Вы можете использовать оружие со свойством «боеприпас» для совершения дальнобойной атаки только если у вас есть боеприпасы для стрельбы. Каждый раз, когда вы совершаете атаку с помощью этого оружия, вы тратите один боеприпас. Вынимается боеприпас из колчана или другого контейнера частью атаки. Для зарядки одноручного оружия требуется одна свободная рука. В конце сражения вы восстанавливаете половину использованных боеприпасов, потратив минуту на поиски на поле боя.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Abacus</name>
-		<type>G</type>
+		<name>Абак</name>
+		<type>Снаряжение</type>
         <magic></magic>
-		<value>2 золотых монеты</value>
+		<value>2 зм</value>
 		<weight>2</weight>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Acid (vial)</name>
-		<type>G</type>
+		<name>Кислота (флакон)</name>
+		<type>Снаряжение</type>
         <magic></magic>
-		<value>25 золотых монет</value>
+		<value>25 зм</value>
 		<weight>1</weight>
-		<text>As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object, treating the acid as an improvised weapon. On a hit, the target takes 2d6 acid damage.</text>
+		<text>Вы можете действием выплеснуть содержимое этого сосуда на существо, находящееся в пределах 5 футов от вас, или метнуть сосуд на расстояние до 20 футов, чтобы он разбился от удара. В любом случае совершите дальнобойную атаку против существа или предмета, считая кислоту импровизированным оружием. При попадании цель получает урон кислотой 2к6.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 148</text>
 	</item>
 	<item>
-		<name>Alchemist's Fire (flask)</name>
-		<type>G</type>
+		<name>Алхимический огонь (фляга)</name>
+		<type>Снаряжение</type>
         <magic></magic>
-		<value>50 золотых монет</value>
+		<value>50 зм</value>
 		<weight>1</weight>
-		<text>This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged attack against a creature or object, treating the alchemist's fire as an improvised weapon. On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.</text>
+		<text>Эта вязкая и клейкая жидкость воспламеняется при контакте с воздухом. Вы можете действием метнуть фляжку на расстояние до 20 футов, разбив её от удара. Совершите дальнобойную атаку по существу или предмету, считая алхимический огонь импровизированным оружием. При попадании цель получает урон огнём 1к4 в начале каждого своего хода. Существо может окончить этот урон, потратив действие на тушение пламени, и совершив проверку Ловкости со Сл 10.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 148</text>
 	</item>
 	<item>
-		<name>Alchemist's Supplies</name>
-		<type>G</type>
+		<name>Инструменты алхимика</name>
+		<type>Снаряжение</type>
         <magic></magic>
-		<value>50 золотых монет</value>
+		<value>50 зм</value>
 		<weight>8</weight>
-		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
+		<text>В эти особые наборы входят инструменты, необходимые для ремесла и торговли. Владение инструментами ремесленника позволяет добавлять бонус мастерства к проверкам характеристик, совершённым при использовании инструментов в ремесле. Для каждого набора инструментов требуется отдельное владение.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 154</text>
 	</item>
 	<item>
-		<name>Antitoxin</name>
-		<type>G</type>
+		<name>Противоядие</name>
+		<type>Снаряжение</type>
         <magic></magic>
-		<value>50 золотых монет</value>
-		<text>A creature that drinks this vial of liquid gains advantage on saving throws against poison for 1 hour. It confers no benefit to undead or constructs.</text>
+		<value>50 зм</value>
+		<text>Существо, выпившее жидкость из этого флакона, в течение часа совершает спасброски от яда с преимуществом. Противоядие не предоставляет преимущества нежити и конструктам.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 151</text>
 	</item>
 	<item>
-		<name>Backpack</name>
-		<type>G</type>
+		<name>Рюкзак</name>
+		<type>Снаряжение</type>
         <magic></magic>
-		<value>2 золотых монеты</value>
+		<value>2 зм</value>
 		<weight>5</weight>
-		<text>A backpack can hold one cubic foot or 30 pounds of gear. You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.</text>
+		<text>Рюкзак вмещает 1 кубический фут либо 30 фунтов (15 кг) груза. Вы также можете привязывать такие предметы как спальники и верёвки снаружи рюкзака.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 153</text>
 	</item>
 	<item>
-		<name>Bagpipes</name>
-		<type>G</type>
+		<name>Волынка</name>
+		<type>Снаряжение</type>
         <magic></magic>
-		<value>30 золотых монет</value>
+		<value>30 зм</value>
 		<weight>6</weight>
-		<text>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument.</text>
+		<text>Если вы владеете определённым музыкальным инструментом, вы можете добавлять бонус мастерства к проверкам характеристик, совершённым во время игры на нём.</text>
 		<text />
-		<text>A bard can use a musical instrument as a spellcasting focus, substituting it for any material component that does not list a cost.</text>
-		<text />
-		<text>Each type of musical instrument requires a separate proficiency.</text>
+		<text>Бард может использовать музыкальный инструмент в качестве фокусировки для заклинаний, заменяя им любой материальный компонент без указанной стоимости.</text>
+ 		<text />
+ 		<text>Для каждого музыкального инструмента нужно отдельное владение.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 154</text>
 	</item>
 	<item>
 		<name>Ball Bearings</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>0.1 медная монета</value>
 		<weight>0.002</weight>
@@ -263,7 +263,7 @@
 	</item>
 	<item>
 		<name>Barrel</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>2 золотых монеты</value>
 		<weight>70</weight>
@@ -273,7 +273,7 @@
 	</item>
 	<item>
 		<name>Basic Poison (vial)</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>100 золотых монет</value>
 		<text>You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take 1d4 poison damage. Once applied, the poison retains potency for 1 minute before drying.</text>
@@ -282,7 +282,7 @@
 	</item>
 	<item>
 		<name>Basket</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>4 серебряных монеты</value>
 		<weight>2</weight>
@@ -292,7 +292,7 @@
 	</item>
 	<item>
 		<name>Bedroll</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>1 золотая монета</value>
 		<weight>7</weight>
@@ -300,14 +300,14 @@
 	</item>
 	<item>
 		<name>Bell</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>1 золотая монета</value>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
 		<name>Blanket</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>5 серебряных монет</value>
 		<weight>3</weight>
@@ -315,7 +315,7 @@
 	</item>
 	<item>
 		<name>Block and Tackle</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>1 золотая монета</value>
 		<weight>5</weight>
@@ -325,7 +325,7 @@
 	</item>
 	<item>
 		<name>Book</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>25 золотых монет</value>
 		<weight>5</weight>
@@ -335,7 +335,7 @@
 	</item>
 	<item>
 		<name>Brewer's Supplies</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>20 золотых монет</value>
 		<weight>9</weight>
@@ -345,7 +345,7 @@
 	</item>
 	<item>
 		<name>Bucket</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>5 медных монеты</value>
 		<weight>2</weight>
@@ -355,7 +355,7 @@
 	</item>
 	<item>
 		<name>Bullseye Lantern</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>10 золотых монет</value>
 		<weight>2</weight>
@@ -365,7 +365,7 @@
 	</item>
 	<item>
 		<name>Burglar's Pack</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>16 золотых монет</value>
 		<weight>44.5</weight>
@@ -403,7 +403,7 @@
 	</item>
 	<item>
 		<name>Calligrapher's Supplies</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>10 золотых монет</value>
 		<weight>5</weight>
@@ -413,7 +413,7 @@
 	</item>
 	<item>
 		<name>Caltrops</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>5 меди</value>
 		<weight>0.1</weight>
@@ -423,7 +423,7 @@
 	</item>
 	<item>
 		<name>Caltrops (20)</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>1 золотая монета</value>
 		<weight>2</weight>
@@ -433,7 +433,7 @@
 	</item>
 	<item>
 		<name>Candle</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>1 медная монета</value>
 		<text>For 1 hour, a candle sheds bright light in a 5-foot radius and dim light for an additional 5 feet.</text>
@@ -442,7 +442,7 @@
 	</item>
 	<item>
 		<name>Carpenter's Tools</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>8 золота</value>
 		<weight>6</weight>
@@ -452,7 +452,7 @@
 	</item>
 	<item>
 		<name>Cartographer's Tools</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>15 золота</value>
 		<weight>6</weight>
@@ -462,7 +462,7 @@
 	</item>
 	<item>
 		<name>Chain (10 feet)</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>5 золота</value>
 		<weight>10</weight>
@@ -472,14 +472,14 @@
 	</item>
 	<item>
 		<name>Chalk (1 piece)</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>1 медная монета</value>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
 		<name>Chest</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>5 золота</value>
 		<weight>25</weight>
@@ -489,7 +489,7 @@
 	</item>
 	<item>
 		<name>Climber's Kit</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>25 золота</value>
 		<weight>12</weight>
@@ -499,7 +499,7 @@
 	</item>
 	<item>
 		<name>Cobbler's Tools</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>5 золота</value>
 		<weight>5</weight>
@@ -509,7 +509,7 @@
 	</item>
 	<item>
 		<name>Common Clothes</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>5 серебра</value>
 		<weight>3</weight>
@@ -517,7 +517,7 @@
 	</item>
 	<item>
 		<name>Component Pouch</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>25 золота</value>
 		<weight>2</weight>
@@ -527,7 +527,7 @@
 	</item>
 	<item>
 		<name>Cook's Utensils</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>1 золотая монета</value>
 		<weight>8</weight>
@@ -537,7 +537,7 @@
 	</item>
 	<item>
 		<name>Costume Clothes</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>5 золота</value>
 		<weight>4</weight>
@@ -545,7 +545,7 @@
 	</item>
 	<item>
 		<name>Crossbow Bolt Case</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>1 золотая монета</value>
 		<weight>1</weight>
@@ -555,7 +555,7 @@
 	</item>
 	<item>
 		<name>Crowbar</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>2 золота</value>
 		<weight>5</weight>
@@ -565,7 +565,7 @@
 	</item>
 	<item>
 		<name>Crystal</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>10 золота</value>
 		<weight>1</weight>
@@ -575,7 +575,7 @@
 	</item>
 	<item>
 		<name>Dice Set</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>1 серебряная монета</value>
 		<text>If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</text>
@@ -584,7 +584,7 @@
 	</item>
 	<item>
 		<name>Diplomat's Pack</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>39 золота</value>
 		<weight>36</weight>
@@ -616,7 +616,7 @@
 	</item>
 	<item>
 		<name>Disguise Kit</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>25 золота</value>
 		<weight>3</weight>
@@ -626,7 +626,7 @@
 	</item>
 	<item>
 		<name>Dragonchess Set</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>1 золотая монета</value>
 		<weight>0.5</weight>
@@ -636,7 +636,7 @@
 	</item>
 	<item>
 		<name>Drum</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>6 золота</value>
 		<weight>3</weight>
@@ -650,7 +650,7 @@
 	</item>
 	<item>
 		<name>Dulcimer</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>25 золота</value>
 		<weight>10</weight>
@@ -664,7 +664,7 @@
 	</item>
 	<item>
 		<name>Dungeoneer's Pack</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>12 золота</value>
 		<weight>61.5</weight>
@@ -692,7 +692,7 @@
 	</item>
 	<item>
 		<name>Entertainer's Pack</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>40 золота</value>
 		<weight>38</weight>
@@ -716,7 +716,7 @@
 	</item>
 	<item>
 		<name>Explorer's Pack</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>10 золота</value>
 		<weight>59</weight>
@@ -742,7 +742,7 @@
 	</item>
 	<item>
 		<name>Fine Clothes</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>15 золота</value>
 		<weight>6</weight>
@@ -750,7 +750,7 @@
 	</item>
 	<item>
 		<name>Fishing Tackle</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>1 золотая монета</value>
 		<weight>4</weight>
@@ -760,7 +760,7 @@
 	</item>
 	<item>
 		<name>Flask</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>1 медная монета</value>
 		<weight>1</weight>
@@ -770,7 +770,7 @@
 	</item>
 	<item>
 		<name>Flute</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>2 золота</value>
 		<weight>1</weight>
@@ -784,7 +784,7 @@
 	</item>
 	<item>
 		<name>Forgery Kit</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>15 золота</value>
 		<weight>5</weight>
@@ -794,7 +794,7 @@
 	</item>
 	<item>
 		<name>Glass Bottle</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>2 золота</value>
 		<weight>2</weight>
@@ -804,7 +804,7 @@
 	</item>
 	<item>
 		<name>Glassblower's Tools</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>30 золота</value>
 		<weight>5</weight>
@@ -814,7 +814,7 @@
 	</item>
 	<item>
 		<name>Grappling Hook</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>2 золота</value>
 		<weight>4</weight>
@@ -822,7 +822,7 @@
 	</item>
 	<item>
 		<name>Hammer</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>1 золотая монета</value>
 		<weight>3</weight>
@@ -830,7 +830,7 @@
 	</item>
 	<item>
 		<name>Healer's Kit</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>5 золота</value>
 		<weight>3</weight>
@@ -840,7 +840,7 @@
 	</item>
 	<item>
 		<name>Hempen Rope (50 feet)</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>1 золотая монета</value>
 		<weight>10</weight>
@@ -850,7 +850,7 @@
 	</item>
 	<item>
 		<name>Herbalism Kit</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>5 золота</value>
 		<weight>3</weight>
@@ -860,7 +860,7 @@
 	</item>
 	<item>
 		<name>Holy Symbol (Amulet)</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>5 золота</value>
 		<weight>1</weight>
@@ -872,7 +872,7 @@
 	</item>
 	<item>
 		<name>Holy Symbol (Emblem)</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>5 золота</value>
 		<text>A holy symbol is a representation of a god or pantheon</text>
@@ -883,7 +883,7 @@
 	</item>
 	<item>
 		<name>Holy Symbol (Reliquary)</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>5 золота</value>
 		<weight>2</weight>
@@ -895,7 +895,7 @@
 	</item>
 	<item>
 		<name>Holy Water (flask)</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>25 золота</value>
 		<weight>1</weight>
@@ -905,7 +905,7 @@
 	</item>
 	<item>
 		<name>Hooded Lantern</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>5 золота</value>
 		<weight>2</weight>
@@ -915,7 +915,7 @@
 	</item>
 	<item>
 		<name>Horn</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>3 золота</value>
 		<weight>2</weight>
@@ -929,7 +929,7 @@
 	</item>
 	<item>
 		<name>Hourglass</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>25 золота</value>
 		<weight>1</weight>
@@ -937,7 +937,7 @@
 	</item>
 	<item>
 		<name>Hunting Trap</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>5 золота</value>
 		<weight>25</weight>
@@ -948,20 +948,20 @@
 	<item>
 		<name>Ink (1 ounce bottle)</name>
 		<value>10 золота</value>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
 		<name>Ink Pen</name>
 		<value>2 меди</value>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
 		<name>Iron Pot</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>2 золота</value>
 		<weight>10</weight>
@@ -971,7 +971,7 @@
 	</item>
 	<item>
 		<name>Iron Spikes</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>1 серебряная монета</value>
 		<weight>0.5</weight>
@@ -979,7 +979,7 @@
 	</item>
 	<item>
 		<name>Iron Spikes (10)</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>1 золотая монета</value>
 		<weight>5</weight>
@@ -987,7 +987,7 @@
 	</item>
 	<item>
 		<name>Jeweler's Tools</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>25 золота</value>
 		<weight>2</weight>
@@ -997,7 +997,7 @@
 	</item>
 	<item>
 		<name>Jug</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>2 меди</value>
 		<weight>4</weight>
@@ -1007,7 +1007,7 @@
 	</item>
 	<item>
 		<name>Ladder (10-foot)</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>1 серебряная монета</value>
 		<weight>25</weight>
@@ -1015,7 +1015,7 @@
 	</item>
 	<item>
 		<name>Lamp</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>5 серебра</value>
 		<weight>1</weight>
@@ -1025,7 +1025,7 @@
 	</item>
 	<item>
 		<name>Leatherworker's Tools</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>5 золота</value>
 		<weight>5</weight>
@@ -1035,7 +1035,7 @@
 	</item>
 	<item>
 		<name>Lock</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>10 золота</value>
 		<weight>1</weight>
@@ -1045,7 +1045,7 @@
 	</item>
 	<item>
 		<name>Lute</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>35 золота</value>
 		<weight>2</weight>
@@ -1059,7 +1059,7 @@
 	</item>
 	<item>
 		<name>Lyre</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>30 золота</value>
 		<weight>2</weight>
@@ -1073,7 +1073,7 @@
 	</item>
 	<item>
 		<name>Magnifying Glass</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>100 золота</value>
 		<text>This lens allows a closer look at small objects. It is also useful as a substitute for flint and steel when starting fires. Lighting a fire with a magnifying glass requires light as bright as sunlight to focus, tinder to ignite, and about 5 minutes for the fire to ignite. A magnifying glass grants advantage on any ability check made to appraise or inspect an item that is small or highly detailed.</text>
@@ -1082,7 +1082,7 @@
 	</item>
 	<item>
 		<name>Manacles</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>2 золота</value>
 		<weight>6</weight>
@@ -1092,7 +1092,7 @@
 	</item>
 	<item>
 		<name>Map or Scroll Case</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>1 золотая монета</value>
 		<weight>1</weight>
@@ -1102,7 +1102,7 @@
 	</item>
 	<item>
 		<name>Mason's Tools</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>10 золота</value>
 		<weight>8</weight>
@@ -1112,7 +1112,7 @@
 	</item>
 	<item>
 		<name>Merchant's Scale</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>5 золота</value>
 		<weight>3</weight>
@@ -1122,7 +1122,7 @@
 	</item>
 	<item>
 		<name>Mess Kit</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>2 серебра</value>
 		<weight>1</weight>
@@ -1132,7 +1132,7 @@
 	</item>
 	<item>
 		<name>Miner's Pick</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>2 золота</value>
 		<weight>10</weight>
@@ -1140,7 +1140,7 @@
 	</item>
 	<item>
 		<name>Navigator's Tools</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>25 золота</value>
 		<weight>2</weight>
@@ -1150,7 +1150,7 @@
 	</item>
 	<item>
 		<name>Oil (flask)</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>1 серебряная монета</value>
 		<weight>1</weight>
@@ -1160,7 +1160,7 @@
 	</item>
 	<item>
 		<name>Orb</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>25 золота</value>
 		<weight>3</weight>
@@ -1170,7 +1170,7 @@
 	</item>
 	<item>
 		<name>Painter's Supplies</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>10 золота</value>
 		<weight>5</weight>
@@ -1180,7 +1180,7 @@
 	</item>
 	<item>
 		<name>Pan Flute</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>12 золота</value>
 		<weight>2</weight>
@@ -1194,28 +1194,28 @@
 	</item>
 	<item>
 		<name>Paper (one sheet)</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>2 серебра</value>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
 		<name>Parchment (one sheet)</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>1 серебряная монета</value>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
 		<name>Perfume (vial)</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>5 золота</value>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
 		<name>Pitcher</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>2 меди</value>
 		<weight>4</weight>
@@ -1225,7 +1225,7 @@
 	</item>
 	<item>
 		<name>Piton</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>5 меди</value>
 		<weight>0.25</weight>
@@ -1233,7 +1233,7 @@
 	</item>
 	<item>
 		<name>Playing Card Set</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>5 серебра</value>
 		<text>If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</text>
@@ -1242,7 +1242,7 @@
 	</item>
 	<item>
 		<name>Poisoner's Kit</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>50 золота</value>
 		<weight>2</weight>
@@ -1252,7 +1252,7 @@
 	</item>
 	<item>
 		<name>Pole (10-foot)</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>5 меди</value>
 		<weight>7</weight>
@@ -1260,7 +1260,7 @@
 	</item>
 	<item>
 		<name>Portable Ram</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>4 золота</value>
 		<weight>35</weight>
@@ -1270,7 +1270,7 @@
 	</item>
 	<item>
 		<name>Potter's Tools</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>10 золота</value>
 		<weight>3</weight>
@@ -1280,7 +1280,7 @@
 	</item>
 	<item>
 		<name>Pouch</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>5 серебра</value>
 		<weight>1</weight>
@@ -1290,7 +1290,7 @@
 	</item>
 	<item>
 		<name>Priest's Pack</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>19 золота</value>
 		<weight>24</weight>
@@ -1320,7 +1320,7 @@
 	</item>
 	<item>
 		<name>Quiver</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>1 золотая монета</value>
 		<weight>1</weight>
@@ -1330,7 +1330,7 @@
 	</item>
 	<item>
 		<name>Rations (1 day)</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>5 серебра</value>
 		<weight>2</weight>
@@ -1340,7 +1340,7 @@
 	</item>
 	<item>
 		<name>Robes</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>1 золотая монета</value>
 		<weight>4</weight>
@@ -1348,7 +1348,7 @@
 	</item>
 	<item>
 		<name>Rod</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>10 золота</value>
 		<weight>2</weight>
@@ -1358,7 +1358,7 @@
 	</item>
 	<item>
 		<name>Sack</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>1 медная монета</value>
 		<weight>0.5</weight>
@@ -1368,7 +1368,7 @@
 	</item>
 	<item>
 		<name>Scholar's Pack</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>40 золота</value>
 		<weight>10</weight>
@@ -1393,13 +1393,13 @@
 	<item>
 		<name>Sealing Wax</name>
 		<value>5 серебра</value>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
 		<name>Shawm</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>2 золота</value>
 		<weight>1</weight>
@@ -1413,7 +1413,7 @@
 	</item>
 	<item>
 		<name>Shovel</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>2 золота</value>
 		<weight>5</weight>
@@ -1422,20 +1422,20 @@
 	<item>
 		<name>Signal Whistle</name>
 		<value>5 меди</value>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
 		<name>Signet Ring</name>
 		<value>5 золота</value>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
 		<name>Silk Rope (50 feet)</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>10 золота</value>
 		<weight>5</weight>
@@ -1446,14 +1446,14 @@
 	<item>
 		<name>Sledge Hammer</name>
 		<value>2 золота</value>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<weight>10</weight>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
 		<name>Smith's Tools</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>20 золота</value>
 		<weight>8</weight>
@@ -1463,14 +1463,14 @@
 	</item>
 	<item>
 		<name>Soap</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>2 меди</value>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
 		<name>Spellbook</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>50 золота</value>
 		<weight>3</weight>
@@ -1480,7 +1480,7 @@
 	</item>
 	<item>
 		<name>Sprig of Mistletoe</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>1 золотая монета</value>
 		<text>A druid can use such a druidic focus as a spellcasting focus, using it in place of any material component that does not have a cost.</text>
@@ -1489,7 +1489,7 @@
 	</item>
 	<item>
 		<name>Spyglass</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>1000 золота</value>
 		<weight>1</weight>
@@ -1499,7 +1499,7 @@
 	</item>
 	<item>
 		<name>Staff</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>5 золота</value>
 		<weight>4</weight>
@@ -1509,7 +1509,7 @@
 	</item>
 	<item>
 		<name>Steel Mirror</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>5 золота</value>
 		<weight>0.5</weight>
@@ -1517,7 +1517,7 @@
 	</item>
 	<item>
 		<name>Tankard</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>1 медная монета</value>
 		<text>A tankard holds 1 pint of liquid.</text>
@@ -1526,7 +1526,7 @@
 	</item>
 	<item>
 		<name>Thieves' Tools</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>25 золота</value>
 		<weight>1</weight>
@@ -1536,7 +1536,7 @@
 	</item>
 	<item>
 		<name>Three-Dragon Ante Set</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>1 золотая монета</value>
 		<text>If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</text>
@@ -1545,7 +1545,7 @@
 	</item>
 	<item>
 		<name>Tinderbox</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>5 серебра</value>
 		<weight>1</weight>
@@ -1555,7 +1555,7 @@
 	</item>
 	<item>
 		<name>Tinker's Tools</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>50 золота</value>
 		<weight>10</weight>
@@ -1565,7 +1565,7 @@
 	</item>
 	<item>
 		<name>Torch</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>1 медная монета</value>
 		<weight>1</weight>
@@ -1575,7 +1575,7 @@
 	</item>
 	<item>
 		<name>Totem</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>1 золотая монета</value>
 		<text>A druid can use such a druidic focus as a spellcasting focus, using it in place of any material component that does not have a cost.</text>
@@ -1584,7 +1584,7 @@
 	</item>
 	<item>
 		<name>Traveler's Clothes</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>2 золота</value>
 		<weight>4</weight>
@@ -1592,7 +1592,7 @@
 	</item>
 	<item>
 		<name>Two-Person Tent</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>2 золота</value>
 		<weight>20</weight>
@@ -1602,7 +1602,7 @@
 	</item>
 	<item>
 		<name>Vial</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>1 золотая монета</value>
 		<text>A vial can hold up to 4 ounces of liquid.</text>
@@ -1611,7 +1611,7 @@
 	</item>
 	<item>
 		<name>Viol</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>30 золота</value>
 		<weight>1</weight>
@@ -1625,7 +1625,7 @@
 	</item>
 	<item>
 		<name>Wand</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>10 золота</value>
 		<weight>1</weight>
@@ -1635,7 +1635,7 @@
 	</item>
 	<item>
 		<name>Waterskin</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>2 серебра</value>
 		<weight>5</weight>
@@ -1645,7 +1645,7 @@
 	</item>
 	<item>
 		<name>Weaver's Tools</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>1 золотая монета</value>
 		<weight>5</weight>
@@ -1655,7 +1655,7 @@
 	</item>
 	<item>
 		<name>Whetstone</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>1 медная монета</value>
 		<weight>1</weight>
@@ -1663,7 +1663,7 @@
 	</item>
 	<item>
 		<name>Woodcarver's Tools</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>1 золотая монета</value>
 		<weight>5</weight>
@@ -1673,7 +1673,7 @@
 	</item>
 	<item>
 		<name>Wooden Staff</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>5 золота</value>
 		<weight>4</weight>
@@ -1683,7 +1683,7 @@
 	</item>
 	<item>
 		<name>Yew Wand</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>10 золота</value>
 		<weight>1</weight>
@@ -2439,7 +2439,7 @@
 	</item>
 	<item>
 		<name>Assassin's Blood (Ingested)</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>150 золота</value>
 		<weight>0</weight>
@@ -2450,7 +2450,7 @@
 	</item>
 	<item>
 		<name>Burnt Othur Fumes (Inhaled)</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>500 золота</value>
 		<weight>0</weight>
@@ -2462,7 +2462,7 @@
 	</item>
 	<item>
 		<name>Carrion Crawler Mucus (Contact)</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>200 золота</value>
 		<weight>0</weight>
@@ -2472,7 +2472,7 @@
 	</item>
 	<item>
 		<name>Drow Poison (Injury)</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>200 золота</value>
 		<weight>0</weight>
@@ -2482,7 +2482,7 @@
 	</item>
 	<item>
 		<name>Essence of Ether (Inhaled)</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>300 золота</value>
 		<weight>0</weight>
@@ -2492,7 +2492,7 @@
 	</item>
 	<item>
 		<name>Malice (Inhaled)</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>250 золота</value>
 		<weight>0</weight>
@@ -2502,7 +2502,7 @@
 	</item>
 	<item>
 		<name>Midnight Tears (Ingested)</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>1500 золота</value>
 		<weight>0</weight>
@@ -2513,7 +2513,7 @@
 	</item>
 	<item>
 		<name>Oil of Taggit (Contact)</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>400 золота</value>
 		<weight>0</weight>
@@ -2523,7 +2523,7 @@
 	</item>
 	<item>
 		<name>Pale Tincture (Ingested)</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>250 золота</value>
 		<weight>0</weight>
@@ -2534,7 +2534,7 @@
 	</item>
 	<item>
 		<name>Purple Worm Poison (Injury)</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>2000 золота</value>
 		<weight>0</weight>
@@ -2545,7 +2545,7 @@
 	</item>
 	<item>
 		<name>Serpent Venom (Injury)</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>200 золота</value>
 		<weight>0</weight>
@@ -2556,7 +2556,7 @@
 	</item>
 	<item>
 		<name>Torpor (Ingested)</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>600 золота</value>
 		<weight>0</weight>
@@ -2567,7 +2567,7 @@
 	</item>
 	<item>
 		<name>Truth Serum (Ingested)</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>150 золота</value>
 		<weight>0</weight>
@@ -2577,7 +2577,7 @@
 	</item>
 	<item>
 		<name>Wyvern Poison (Injury)</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<value>1200 золота</value>
 		<weight>0</weight>
@@ -2588,7 +2588,7 @@
 	</item>
 	<item>
 		<name>Trinket</name>
-		<type>G</type>
+		<type>Снаряжение</type>
         <magic></magic>
 		<weight>0</weight>
 		<text>When you make your character, you can roll once on the Trinkets table to gain a trinket, a simple item lightly touched by mystery. The DM might also use this table. It can help stock a room in a dungeon or fill a creatures pockets.</text>
@@ -2822,7 +2822,7 @@
 	</item>
     <item>
         <name>Monster Hunter's Pack</name>
-        <type>G</type>
+        <type>Снаряжение</type>
         <magic></magic>
         <value>33 золота</value>
 		<weight>48.5</weight>
