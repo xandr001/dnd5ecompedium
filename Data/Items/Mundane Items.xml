@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5">
 	<item>
-		<enname>Медные монеты (мм)</enname> <name></name>
+		<name>Медные монеты (мм)</name>
 		<type>$</type>
         <magic></magic>
 		<value>1 мм</value>
@@ -21,7 +21,7 @@
 		<text>Источник: Книга игрока, страница 143</text>
 	</item>
 	<item>
-		<enname>Электрумовые монеты (эм)</enname> <name></name>
+		<name>Электрумовые монеты (эм)</name>
 		<type>$</type>
         <magic></magic>
 		<value>1 эм</value>
@@ -41,7 +41,7 @@
 		<text>Источник: Книга игрока, страница 143</text>
 	</item>
 	<item>
-		<enname>Золотые монеты (зм)</enname> <name></name>
+		<name>Золотые монеты (зм)</name>
 		<type>$</type>
         <magic></magic>
 		<value>1 зм</value>
@@ -61,7 +61,7 @@
 		<text>Источник: Книга игрока, страница 143</text>
 	</item>
 	<item>
-		<enname>Платиновые монеты (пм)</enname> <name></name>
+		<name>Платиновые монеты (пм)</name>
 		<type>$</type>
         <magic></magic>
 		<value>1 пм</value>
@@ -81,7 +81,7 @@
 		<text>Источник: Книга игрока, страница 143</text>
 	</item>
 	<item>
-		<enname>Серебряные монеты (см)</enname> <name></name>
+		<name>Серебряные монеты (см)</name>
 		<type>$</type>
         <magic></magic>
 		<value>1 см</value>
@@ -101,7 +101,7 @@
 		<text>Источник: Книга игрока, страница 143</text>
 	</item>
 	<item>
-		<enname>Стрела</enname> <name></name>
+		<name>Стрела</name>
 		<type>Боеприпас</type>
         <magic></magic>
 		<value>5 мм</value>
@@ -111,7 +111,7 @@
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<enname>Стрелы (20)</enname> <name></name>
+		<name>Стрелы (20)</name>
 		<type>Боеприпас</type>
         <magic></magic>
 		<value>1 зм</value>
@@ -121,7 +121,7 @@
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<enname>Игла для трубки</enname> <name></name>
+		<name>Игла для трубки</name>
 		<type>Боеприпас</type>
         <magic></magic>
 		<value>2 мм</value>
@@ -131,7 +131,7 @@
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<enname>Иглы для трубки (50)</enname> <name></name>
+		<name>Иглы для трубки (50)</name>
 		<type>Боеприпас</type>
         <magic></magic>
 		<value>1 зм</value>
@@ -141,7 +141,7 @@
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<enname>Арбалетный болт</enname> <name></name>
+		<name>Арбалетный болт</name>
 		<type>Боеприпас</type>
         <magic></magic>
 		<value>5 мм</value>
@@ -151,7 +151,7 @@
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<enname>Арбалетные болты (20)</enname> <name></name>
+		<name>Арбалетные болты (20)</name>
 		<type>Боеприпас</type>
         <magic></magic>
 		<value>1 зм</value>
@@ -161,7 +161,7 @@
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<enname>Снаряд для пращи</enname> <name></name>
+		<name>Снаряд для пращи</name>
 		<type>Боеприпас</type>
         <magic></magic>
 		<value>0.2 мм</value>
@@ -171,7 +171,7 @@
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<enname>Снаряды для пращи (20)</enname> <name></name>
+		<name>Снаряды для пращи (20)</name>
 		<type>Боеприпас</type>
         <magic></magic>
 		<value>4 мм</value>
@@ -181,7 +181,7 @@
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<enname>Абак</enname> <name></name>
+		<name>Абак</name>
 		<type>Снаряжение</type>
         <magic></magic>
 		<value>2 зм</value>
@@ -189,7 +189,7 @@
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<enname>Кислота (флакон)</enname> <name></name>
+		<name>Кислота (флакон)</name>
 		<type>Снаряжение</type>
         <magic></magic>
 		<value>25 зм</value>
@@ -199,7 +199,7 @@
 		<text>Источник: Книга игрока, страница 148</text>
 	</item>
 	<item>
-		<enname>Алхимический огонь (фляга)</enname> <name></name>
+		<name>Алхимический огонь (фляга)</name>
 		<type>Снаряжение</type>
         <magic></magic>
 		<value>50 зм</value>
@@ -209,7 +209,7 @@
 		<text>Источник: Книга игрока, страница 148</text>
 	</item>
 	<item>
-		<enname>Инструменты алхимика</enname> <name></name>
+		<name>Инструменты алхимика</name>
 		<type>Снаряжение</type>
         <magic></magic>
 		<value>50 зм</value>
@@ -219,7 +219,7 @@
 		<text>Источник: Книга игрока, страница 154</text>
 	</item>
 	<item>
-		<enname>Противоядие</enname> <name></name>
+		<name>Противоядие</name>
 		<type>Снаряжение</type>
         <magic></magic>
 		<value>50 зм</value>
@@ -228,7 +228,7 @@
 		<text>Источник: Книга игрока, страница 151</text>
 	</item>
 	<item>
-		<enname>Рюкзак</enname> <name></name>
+		<name>Рюкзак</name>
 		<type>Снаряжение</type>
         <magic></magic>
 		<value>2 зм</value>
@@ -238,7 +238,7 @@
 		<text>Источник: Книга игрока, страница 153</text>
 	</item>
 	<item>
-		<enname>Волынка</enname> <name></name>
+		<name>Волынка</name>
 		<type>Снаряжение</type>
         <magic></magic>
 		<value>30 зм</value>
