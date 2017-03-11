@@ -1,107 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5">
 	<item>
-		<name>Медные монеты (мм)</name>
+		<enname>Медные монеты (мм)</enname> <name></name>
 		<type>$</type>
         <magic></magic>
 		<value>1 мм</value>
 		<weight>0.02</weight>
 		<text>Монеты делают разного номинала, основываясь на относительной стоимости металла, из которого они изготовлены. Чаще всего встречаются монеты трёх видов: золотые монеты (зм), серебряные монеты (см) и медные монеты (мм).</text>
 		<text />
-		<text>На одну золотую монету персонаж может купить поясной кошель, 50 футов хорошей верёвки или козу. Опытный (но не виртуозный) ремесленник может зарабатывать одну золотую монету в день. Золотая монета — стандартная единица измерения богатства, даже если при этом сами монеты не используются. Когда торговцы обсуждают сделки, товары и услуги, стоящие сотни тысяч золотых монет, обмен таким бешеным количеством монет не происходит. Просто это единица измерения богатства, и настоящий обмен производится золотыми слитками, кредитными письмами и ценными товарами.</text>
+		<text>На одну золотую монету персонаж может купить поясной кошель, 50 футов хорошей верёвки или козу. Опытный (но не виртуозный) ремесленник может зарабатывать одну золотую монету в день. зм — стандартная единица измерения богатства, даже если при этом сами монеты не используются. Когда торговцы обсуждают сделки, товары и услуги, стоящие сотни тысяч зм, обмен таким бешеным количеством монет не происходит. Просто это единица измерения богатства, и настоящий обмен производится золотыми слитками, кредитными письмами и ценными товарами.</text>
 		<text />
-		<text>Одна золотая монета стоит десять серебряных монет, распространённых среди обывателей. Серебряная монета оплачивает один день чернорабочего, флягу лампового масла или одну ночь на захудалом постоялом дворе.</text>
+		<text>Одна зм стоит десять см, распространённых среди обывателей. см оплачивает один день чернорабочего, флягу лампового масла или одну ночь на захудалом постоялом дворе.</text>
 		<text />
-		<text>Одна серебряная монета стоит десять медных монет, распространённых среди чернорабочих и нищих. За одну медную монету можно купить свечу, факел или кусочек мела.</text>
+		<text>Одна см стоит десять медных монет, распространённых среди чернорабочих и нищих. За одну медную монету можно купить свечу, факел или кусочек мела.</text>
 		<text />
-		<text>Иногда в грудах сокровищ попадаются необычные монеты, сделанные из других драгоценных металлов. Монеты из электрума (эм) и платины (пм) были в обращении в древних империях и королевствах, и при оплате ими они иногда вызывают подозрения. Монета из электрума стоит пять серебряных монет? а из платины — десять золотых.</text>
+		<text>Иногда в грудах сокровищ попадаются необычные монеты, сделанные из других драгоценных металлов. Монеты из электрума (эм) и платины (пм) были в обращении в древних империях и королевствах, и при оплате ими они иногда вызывают подозрения. Монета из электрума стоит пять см? а из платины — десять золотых.</text>
 		<text />
 		<text>Стандартная монета весит 9 грамм, так что пятьдесят любых монет весят полкилограмма или 1 фунт.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 143</text>
 	</item>
 	<item>
-		<name>Электрумовые монеты (эм)</name>
+		<enname>Электрумовые монеты (эм)</enname> <name></name>
 		<type>$</type>
         <magic></magic>
 		<value>1 эм</value>
 		<weight>0.02</weight>
 		<text>Монеты делают разного номинала, основываясь на относительной стоимости металла, из которого они изготовлены. Чаще всего встречаются монеты трёх видов: золотые монеты (зм), серебряные монеты (см) и медные монеты (мм).</text>
 		<text />
-		<text>На одну золотую монету персонаж может купить поясной кошель, 50 футов хорошей верёвки или козу. Опытный (но не виртуозный) ремесленник может зарабатывать одну золотую монету в день. Золотая монета — стандартная единица измерения богатства, даже если при этом сами монеты не используются. Когда торговцы обсуждают сделки, товары и услуги, стоящие сотни тысяч золотых монет, обмен таким бешеным количеством монет не происходит. Просто это единица измерения богатства, и настоящий обмен производится золотыми слитками, кредитными письмами и ценными товарами.</text>
+		<text>На одну золотую монету персонаж может купить поясной кошель, 50 футов хорошей верёвки или козу. Опытный (но не виртуозный) ремесленник может зарабатывать одну золотую монету в день. зм — стандартная единица измерения богатства, даже если при этом сами монеты не используются. Когда торговцы обсуждают сделки, товары и услуги, стоящие сотни тысяч зм, обмен таким бешеным количеством монет не происходит. Просто это единица измерения богатства, и настоящий обмен производится золотыми слитками, кредитными письмами и ценными товарами.</text>
 		<text />
-		<text>Одна золотая монета стоит десять серебряных монет, распространённых среди обывателей. Серебряная монета оплачивает один день чернорабочего, флягу лампового масла или одну ночь на захудалом постоялом дворе.</text>
+		<text>Одна зм стоит десять см, распространённых среди обывателей. см оплачивает один день чернорабочего, флягу лампового масла или одну ночь на захудалом постоялом дворе.</text>
 		<text />
-		<text>Одна серебряная монета стоит десять медных монет, распространённых среди чернорабочих и нищих. За одну медную монету можно купить свечу, факел или кусочек мела.</text>
+		<text>Одна см стоит десять медных монет, распространённых среди чернорабочих и нищих. За одну медную монету можно купить свечу, факел или кусочек мела.</text>
 		<text />
-		<text>Иногда в грудах сокровищ попадаются необычные монеты, сделанные из других драгоценных металлов. Монеты из электрума (эм) и платины (пм) были в обращении в древних империях и королевствах, и при оплате ими они иногда вызывают подозрения. Монета из электрума стоит пять серебряных монет? а из платины — десять золотых.</text>
+		<text>Иногда в грудах сокровищ попадаются необычные монеты, сделанные из других драгоценных металлов. Монеты из электрума (эм) и платины (пм) были в обращении в древних империях и королевствах, и при оплате ими они иногда вызывают подозрения. Монета из электрума стоит пять см? а из платины — десять золотых.</text>
 		<text />
 		<text>Стандартная монета весит 9 грамм, так что пятьдесят любых монет весят полкилограмма или 1 фунт.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 143</text>
 	</item>
 	<item>
-		<name>Золотые монеты (зм)</name>
+		<enname>Золотые монеты (зм)</enname> <name></name>
 		<type>$</type>
         <magic></magic>
 		<value>1 зм</value>
 		<weight>0.02</weight>
 		<text>Монеты делают разного номинала, основываясь на относительной стоимости металла, из которого они изготовлены. Чаще всего встречаются монеты трёх видов: золотые монеты (зм), серебряные монеты (см) и медные монеты (мм).</text>
 		<text />
-		<text>На одну золотую монету персонаж может купить поясной кошель, 50 футов хорошей верёвки или козу. Опытный (но не виртуозный) ремесленник может зарабатывать одну золотую монету в день. Золотая монета — стандартная единица измерения богатства, даже если при этом сами монеты не используются. Когда торговцы обсуждают сделки, товары и услуги, стоящие сотни тысяч золотых монет, обмен таким бешеным количеством монет не происходит. Просто это единица измерения богатства, и настоящий обмен производится золотыми слитками, кредитными письмами и ценными товарами.</text>
+		<text>На одну золотую монету персонаж может купить поясной кошель, 50 футов хорошей верёвки или козу. Опытный (но не виртуозный) ремесленник может зарабатывать одну золотую монету в день. зм — стандартная единица измерения богатства, даже если при этом сами монеты не используются. Когда торговцы обсуждают сделки, товары и услуги, стоящие сотни тысяч зм, обмен таким бешеным количеством монет не происходит. Просто это единица измерения богатства, и настоящий обмен производится золотыми слитками, кредитными письмами и ценными товарами.</text>
 		<text />
-		<text>Одна золотая монета стоит десять серебряных монет, распространённых среди обывателей. Серебряная монета оплачивает один день чернорабочего, флягу лампового масла или одну ночь на захудалом постоялом дворе.</text>
+		<text>Одна зм стоит десять см, распространённых среди обывателей. см оплачивает один день чернорабочего, флягу лампового масла или одну ночь на захудалом постоялом дворе.</text>
 		<text />
-		<text>Одна серебряная монета стоит десять медных монет, распространённых среди чернорабочих и нищих. За одну медную монету можно купить свечу, факел или кусочек мела.</text>
+		<text>Одна см стоит десять медных монет, распространённых среди чернорабочих и нищих. За одну медную монету можно купить свечу, факел или кусочек мела.</text>
 		<text />
-		<text>Иногда в грудах сокровищ попадаются необычные монеты, сделанные из других драгоценных металлов. Монеты из электрума (эм) и платины (пм) были в обращении в древних империях и королевствах, и при оплате ими они иногда вызывают подозрения. Монета из электрума стоит пять серебряных монет? а из платины — десять золотых.</text>
+		<text>Иногда в грудах сокровищ попадаются необычные монеты, сделанные из других драгоценных металлов. Монеты из электрума (эм) и платины (пм) были в обращении в древних империях и королевствах, и при оплате ими они иногда вызывают подозрения. Монета из электрума стоит пять см? а из платины — десять золотых.</text>
 		<text />
 		<text>Стандартная монета весит 9 грамм, так что пятьдесят любых монет весят полкилограмма или 1 фунт.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 143</text>
 	</item>
 	<item>
-		<name>Платиновые монеты (пм)</name>
+		<enname>Платиновые монеты (пм)</enname> <name></name>
 		<type>$</type>
         <magic></magic>
 		<value>1 пм</value>
 		<weight>0.02</weight>
 		<text>Монеты делают разного номинала, основываясь на относительной стоимости металла, из которого они изготовлены. Чаще всего встречаются монеты трёх видов: золотые монеты (зм), серебряные монеты (см) и медные монеты (мм).</text>
 		<text />
-		<text>На одну золотую монету персонаж может купить поясной кошель, 50 футов хорошей верёвки или козу. Опытный (но не виртуозный) ремесленник может зарабатывать одну золотую монету в день. Золотая монета — стандартная единица измерения богатства, даже если при этом сами монеты не используются. Когда торговцы обсуждают сделки, товары и услуги, стоящие сотни тысяч золотых монет, обмен таким бешеным количеством монет не происходит. Просто это единица измерения богатства, и настоящий обмен производится золотыми слитками, кредитными письмами и ценными товарами.</text>
+		<text>На одну золотую монету персонаж может купить поясной кошель, 50 футов хорошей верёвки или козу. Опытный (но не виртуозный) ремесленник может зарабатывать одну золотую монету в день. зм — стандартная единица измерения богатства, даже если при этом сами монеты не используются. Когда торговцы обсуждают сделки, товары и услуги, стоящие сотни тысяч зм, обмен таким бешеным количеством монет не происходит. Просто это единица измерения богатства, и настоящий обмен производится золотыми слитками, кредитными письмами и ценными товарами.</text>
 		<text />
-		<text>Одна золотая монета стоит десять серебряных монет, распространённых среди обывателей. Серебряная монета оплачивает один день чернорабочего, флягу лампового масла или одну ночь на захудалом постоялом дворе.</text>
+		<text>Одна зм стоит десять см, распространённых среди обывателей. см оплачивает один день чернорабочего, флягу лампового масла или одну ночь на захудалом постоялом дворе.</text>
 		<text />
-		<text>Одна серебряная монета стоит десять медных монет, распространённых среди чернорабочих и нищих. За одну медную монету можно купить свечу, факел или кусочек мела.</text>
+		<text>Одна см стоит десять медных монет, распространённых среди чернорабочих и нищих. За одну медную монету можно купить свечу, факел или кусочек мела.</text>
 		<text />
-		<text>Иногда в грудах сокровищ попадаются необычные монеты, сделанные из других драгоценных металлов. Монеты из электрума (эм) и платины (пм) были в обращении в древних империях и королевствах, и при оплате ими они иногда вызывают подозрения. Монета из электрума стоит пять серебряных монет? а из платины — десять золотых.</text>
+		<text>Иногда в грудах сокровищ попадаются необычные монеты, сделанные из других драгоценных металлов. Монеты из электрума (эм) и платины (пм) были в обращении в древних империях и королевствах, и при оплате ими они иногда вызывают подозрения. Монета из электрума стоит пять см? а из платины — десять золотых.</text>
 		<text />
 		<text>Стандартная монета весит 9 грамм, так что пятьдесят любых монет весят полкилограмма или 1 фунт.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 143</text>
 	</item>
 	<item>
-		<name>Серебряные монеты (см)</name>
+		<enname>Серебряные монеты (см)</enname> <name></name>
 		<type>$</type>
         <magic></magic>
 		<value>1 см</value>
 		<weight>0.02</weight>
 		<text>Монеты делают разного номинала, основываясь на относительной стоимости металла, из которого они изготовлены. Чаще всего встречаются монеты трёх видов: золотые монеты (зм), серебряные монеты (см) и медные монеты (мм).</text>
 		<text />
-		<text>На одну золотую монету персонаж может купить поясной кошель, 50 футов хорошей верёвки или козу. Опытный (но не виртуозный) ремесленник может зарабатывать одну золотую монету в день. Золотая монета — стандартная единица измерения богатства, даже если при этом сами монеты не используются. Когда торговцы обсуждают сделки, товары и услуги, стоящие сотни тысяч золотых монет, обмен таким бешеным количеством монет не происходит. Просто это единица измерения богатства, и настоящий обмен производится золотыми слитками, кредитными письмами и ценными товарами.</text>
+		<text>На одну золотую монету персонаж может купить поясной кошель, 50 футов хорошей верёвки или козу. Опытный (но не виртуозный) ремесленник может зарабатывать одну золотую монету в день. зм — стандартная единица измерения богатства, даже если при этом сами монеты не используются. Когда торговцы обсуждают сделки, товары и услуги, стоящие сотни тысяч зм, обмен таким бешеным количеством монет не происходит. Просто это единица измерения богатства, и настоящий обмен производится золотыми слитками, кредитными письмами и ценными товарами.</text>
 		<text />
-		<text>Одна золотая монета стоит десять серебряных монет, распространённых среди обывателей. Серебряная монета оплачивает один день чернорабочего, флягу лампового масла или одну ночь на захудалом постоялом дворе.</text>
+		<text>Одна зм стоит десять см, распространённых среди обывателей. см оплачивает один день чернорабочего, флягу лампового масла или одну ночь на захудалом постоялом дворе.</text>
 		<text />
-		<text>Одна серебряная монета стоит десять медных монет, распространённых среди чернорабочих и нищих. За одну медную монету можно купить свечу, факел или кусочек мела.</text>
+		<text>Одна см стоит десять медных монет, распространённых среди чернорабочих и нищих. За одну медную монету можно купить свечу, факел или кусочек мела.</text>
 		<text />
-		<text>Иногда в грудах сокровищ попадаются необычные монеты, сделанные из других драгоценных металлов. Монеты из электрума (эм) и платины (пм) были в обращении в древних империях и королевствах, и при оплате ими они иногда вызывают подозрения. Монета из электрума стоит пять серебряных монет? а из платины — десять золотых.</text>
+		<text>Иногда в грудах сокровищ попадаются необычные монеты, сделанные из других драгоценных металлов. Монеты из электрума (эм) и платины (пм) были в обращении в древних империях и королевствах, и при оплате ими они иногда вызывают подозрения. Монета из электрума стоит пять см? а из платины — десять золотых.</text>
 		<text />
 		<text>Стандартная монета весит 9 грамм, так что пятьдесят любых монет весят полкилограмма или 1 фунт.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 143</text>
 	</item>
 	<item>
-		<name>Стрела</name>
+		<enname>Стрела</enname> <name></name>
 		<type>Боеприпас</type>
         <magic></magic>
 		<value>5 мм</value>
@@ -111,7 +111,7 @@
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Стрелы (20)</name>
+		<enname>Стрелы (20)</enname> <name></name>
 		<type>Боеприпас</type>
         <magic></magic>
 		<value>1 зм</value>
@@ -121,7 +121,7 @@
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Игла для трубки</name>
+		<enname>Игла для трубки</enname> <name></name>
 		<type>Боеприпас</type>
         <magic></magic>
 		<value>2 мм</value>
@@ -131,7 +131,7 @@
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Иглы для трубки (50)</name>
+		<enname>Иглы для трубки (50)</enname> <name></name>
 		<type>Боеприпас</type>
         <magic></magic>
 		<value>1 зм</value>
@@ -141,7 +141,7 @@
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Арбалетный болт</name>
+		<enname>Арбалетный болт</enname> <name></name>
 		<type>Боеприпас</type>
         <magic></magic>
 		<value>5 мм</value>
@@ -151,7 +151,7 @@
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Арбалетные болты (20)</name>
+		<enname>Арбалетные болты (20)</enname> <name></name>
 		<type>Боеприпас</type>
         <magic></magic>
 		<value>1 зм</value>
@@ -161,7 +161,7 @@
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Снаряд для пращи</name>
+		<enname>Снаряд для пращи</enname> <name></name>
 		<type>Боеприпас</type>
         <magic></magic>
 		<value>0.2 мм</value>
@@ -171,7 +171,7 @@
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Снаряды для пращи (20)</name>
+		<enname>Снаряды для пращи (20)</enname> <name></name>
 		<type>Боеприпас</type>
         <magic></magic>
 		<value>4 мм</value>
@@ -181,7 +181,7 @@
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Абак</name>
+		<enname>Абак</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
 		<value>2 зм</value>
@@ -189,7 +189,7 @@
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Кислота (флакон)</name>
+		<enname>Кислота (флакон)</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
 		<value>25 зм</value>
@@ -199,7 +199,7 @@
 		<text>Источник: Книга игрока, страница 148</text>
 	</item>
 	<item>
-		<name>Алхимический огонь (фляга)</name>
+		<enname>Алхимический огонь (фляга)</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
 		<value>50 зм</value>
@@ -209,7 +209,7 @@
 		<text>Источник: Книга игрока, страница 148</text>
 	</item>
 	<item>
-		<name>Инструменты алхимика</name>
+		<enname>Инструменты алхимика</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
 		<value>50 зм</value>
@@ -219,7 +219,7 @@
 		<text>Источник: Книга игрока, страница 154</text>
 	</item>
 	<item>
-		<name>Противоядие</name>
+		<enname>Противоядие</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
 		<value>50 зм</value>
@@ -228,7 +228,7 @@
 		<text>Источник: Книга игрока, страница 151</text>
 	</item>
 	<item>
-		<name>Рюкзак</name>
+		<enname>Рюкзак</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
 		<value>2 зм</value>
@@ -238,7 +238,7 @@
 		<text>Источник: Книга игрока, страница 153</text>
 	</item>
 	<item>
-		<name>Волынка</name>
+		<enname>Волынка</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
 		<value>30 зм</value>
@@ -252,393 +252,415 @@
 		<text>Источник: Книга игрока, страница 154</text>
 	</item>
 	<item>
-		<name>Ball Bearings</name>
+		<enname>Ball Bearings</enname> 
+		<name>Металлические шарики (1000 шт в сумке)</name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>0.1 медная монета</value>
-		<weight>0.002</weight>
-		<text>As an action, you can spill these tiny metal balls from their pouch to cover a level area 10 feet square. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall prone. A creature moving through the area at half speed doesn't need to make the saving throw.</text>
-		<text />
-		<text>Источник: Книга игрока, страница 151</text>
-	</item>
-	<item>
-		<name>Barrel</name>
-		<type>Снаряжение</type>
-        <magic></magic>
-		<value>2 золотых монеты</value>
-		<weight>70</weight>
-		<text>A barrel can hold 40 gallons of liquid or 4 cubic feet of solids.</text>
-		<text />
-		<text>Источник: Книга игрока, страница 153</text>
-	</item>
-	<item>
-		<name>Basic Poison (vial)</name>
-		<type>Снаряжение</type>
-        <magic></magic>
-		<value>100 золотых монет</value>
-		<text>You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take 1d4 poison damage. Once applied, the poison retains potency for 1 minute before drying.</text>
-		<text />
-		<text>Источник: Книга игрока, страница 153</text>
-	</item>
-	<item>
-		<name>Basket</name>
-		<type>Снаряжение</type>
-        <magic></magic>
-		<value>4 серебряных монеты</value>
+		<value>1 зм</value>
 		<weight>2</weight>
-		<text>A basket holds 2 cubic feet or 40 pounds of gear.</text>
-		<text />
-		<text>Источник: Книга игрока, страница 153</text>
-	</item>
-	<item>
-		<name>Bedroll</name>
-		<type>Снаряжение</type>
-        <magic></magic>
-		<value>1 золотая монета</value>
-		<weight>7</weight>
-		<text>Источник: Книга игрока, страница 150</text>
-	</item>
-	<item>
-		<name>Bell</name>
-		<type>Снаряжение</type>
-        <magic></magic>
-		<value>1 золотая монета</value>
-		<text>Источник: Книга игрока, страница 150</text>
-	</item>
-	<item>
-		<name>Blanket</name>
-		<type>Снаряжение</type>
-        <magic></magic>
-		<value>5 серебряных монет</value>
-		<weight>3</weight>
-		<text>Источник: Книга игрока, страница 150</text>
-	</item>
-	<item>
-		<name>Block and Tackle</name>
-		<type>Снаряжение</type>
-        <magic></magic>
-		<value>1 золотая монета</value>
-		<weight>5</weight>
-		<text>A set of pulleys with a cable threaded through them and a hook to attach to objects, a block and tackle allows you to hoist up to four times the weight you can normally lift.</text>
-		<text />
-		<text>Источник: Книга игрока, страница 151</text>
-	</item>
-	<item>
-		<name>Book</name>
-		<type>Снаряжение</type>
-        <magic></magic>
-		<value>25 золотых монет</value>
-		<weight>5</weight>
-		<text>A book might contain poetry, historical accounts, information pertaining to a particular field of lore, diagrams and notes on gnomish contraptions, or just about anything else that can be represented using text or pictures. A book of spells is a spellbook (described later in this section).</text>
-		<text />
-		<text>Источник: Книга игрока, страница 151</text>
-	</item>
-	<item>
-		<name>Brewer's Supplies</name>
-		<type>Снаряжение</type>
-        <magic></magic>
-		<value>20 золотых монет</value>
-		<weight>9</weight>
-		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
-		<text />
-		<text>Источник: Книга игрока, страница 154</text>
-	</item>
-	<item>
-		<name>Bucket</name>
-		<type>Снаряжение</type>
-        <magic></magic>
-		<value>5 медных монеты</value>
-		<weight>2</weight>
-		<text>A bucket holds 3 gallons of liquid or 1/2 cubic foot of solids.</text>
-		<text />
-		<text>Источник: Книга игрока, страница 153</text>
-	</item>
-	<item>
-		<name>Bullseye Lantern</name>
-		<type>Снаряжение</type>
-        <magic></magic>
-		<value>10 золотых монет</value>
-		<weight>2</weight>
-		<text>A bullseye lantern casts bright light in a 60-foot cone and dim light for an additional 60 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.</text>
+		<text>Вы можете действием рассыпать из этого мешка крохотные металлические шарики, покрыв площадь 10 × 10 футов. Существа, перемещающиеся по этой области, должны преуспеть в спасброске Ловкости со Сл 10, иначе они падают ничком. Существо, перемещающееся по этой области с уменьшенной вдвое скоростью, не обязано совершать спасбросок.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 152</text>
 	</item>
 	<item>
-		<name>Burglar's Pack</name>
+		<enname>Barrel</enname>
+		<name>Бочка</name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>16 золотых монет</value>
-		<weight>44.5</weight>
-		<text>Includes:</text>
-		<text />
-		<text>• a backpack</text>
-		<text />
-		<text>• a bag of 1,000 ball bearings</text>
-		<text />
-		<text>• 10 feet of string</text>
-		<text />
-		<text>• a bell</text>
-		<text />
-		<text>• 5 candles</text>
-		<text />
-		<text>• a crowbar</text>
-		<text />
-		<text>• a hammer</text>
-		<text />
-		<text>• 10 pitons</text>
-		<text />
-		<text>• a hooded lantern</text>
-		<text />
-		<text>• 2 flasks of oil</text>
-		<text />
-		<text>• 5 days rations</text>
-		<text />
-		<text>• a tinderbox</text>
-		<text />
-		<text>• a waterskin</text>
-		<text />
-		<text>• 50 feet of hempen rope</text>
-		<text />
-		<text>Источник: Книга игрока, страница 151</text>
-	</item>
-	<item>
-		<name>Calligrapher's Supplies</name>
-		<type>Снаряжение</type>
-        <magic></magic>
-		<value>10 золотых монет</value>
-		<weight>5</weight>
-		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
-		<text />
-		<text>Источник: Книга игрока, страница 154</text>
-	</item>
-	<item>
-		<name>Caltrops</name>
-		<type>Снаряжение</type>
-        <magic></magic>
-		<value>5 меди</value>
-		<weight>0.1</weight>
-		<text>As an action, you can spread a single bag of caltrops to cover a 5-foot-square area. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving and take 1 piercing damage. Until the creature regains at least 1 hit point, its walking speed is reduced by 10 feet. A creature moving through the area at half speed doesn't need to make the saving throw.</text>
-		<text />
-		<text>Источник: Книга игрока, страница 151</text>
-	</item>
-	<item>
-		<name>Caltrops (20)</name>
-		<type>Снаряжение</type>
-        <magic></magic>
-		<value>1 золотая монета</value>
-		<weight>2</weight>
-		<text>As an action, you can spread a single bag of caltrops to cover a 5-foot-square area. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving and take 1 piercing damage. Until the creature regains at least 1 hit point, its walking speed is reduced by 10 feet. A creature moving through the area at half speed doesn't need to make the saving throw.</text>
-		<text />
-		<text>Источник: Книга игрока, страница 151</text>
-	</item>
-	<item>
-		<name>Candle</name>
-		<type>Снаряжение</type>
-        <magic></magic>
-		<value>1 медная монета</value>
-		<text>For 1 hour, a candle sheds bright light in a 5-foot radius and dim light for an additional 5 feet.</text>
-		<text />
-		<text>Источник: Книга игрока, страница 151</text>
-	</item>
-	<item>
-		<name>Carpenter's Tools</name>
-		<type>Снаряжение</type>
-        <magic></magic>
-		<value>8 золота</value>
-		<weight>6</weight>
-		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
-		<text />
-		<text>Источник: Книга игрока, страница 154</text>
-	</item>
-	<item>
-		<name>Cartographer's Tools</name>
-		<type>Снаряжение</type>
-        <magic></magic>
-		<value>15 золота</value>
-		<weight>6</weight>
-		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
-		<text />
-		<text>Источник: Книга игрока, страница 154</text>
-	</item>
-	<item>
-		<name>Chain (10 feet)</name>
-		<type>Снаряжение</type>
-        <magic></magic>
-		<value>5 золота</value>
-		<weight>10</weight>
-		<text>A chain has 10 hit points. It can be burst with a successful DC 20 Strength check.</text>
-		<text />
-		<text>Источник: Книга игрока, страница 151</text>
-	</item>
-	<item>
-		<name>Chalk (1 piece)</name>
-		<type>Снаряжение</type>
-        <magic></magic>
-		<value>1 медная монета</value>
-		<text>Источник: Книга игрока, страница 150</text>
-	</item>
-	<item>
-		<name>Chest</name>
-		<type>Снаряжение</type>
-        <magic></magic>
-		<value>5 золота</value>
-		<weight>25</weight>
-		<text>A chest holds 12 cubic feet or 300 pounds of gear.</text>
+		<value>2 зм</value>
+		<weight>70</weight>
+		<text>Бочка может вмещать 40 галлонов (150 лит.) жидкости или 4 кубических фута твердых материалов</text>
 		<text />
 		<text>Источник: Книга игрока, страница 153</text>
 	</item>
 	<item>
-		<name>Climber's Kit</name>
+		<enname>Basic Poison (vial)</enname>
+		<name>Яд, простой (флакон)</name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>25 золота</value>
-		<weight>12</weight>
-		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
+		<value>100 зм</value>
+		<text>Вы можете покрыть ядом из этого флакона одно рубящее или колющее оружие или три боеприпаса. Наносится яд одним действием. Существо, по которому попадёт отравленное оружие или боеприпас, должно совершить спасбросок Телосложения со Сл 10, получая в случае провала урон ядом 1к4. Нанесённый яд эффективен 1 минуту, после чего высыхает.</text>
 		<text />
-		<text>Источник: Книга игрока, страница 151</text>
+		<text>Источник: Книга игрока, страница 153</text>
 	</item>
 	<item>
-		<name>Cobbler's Tools</name>
+		<enname>Basket</enname> 
+		<name>Корзина</name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>5 золота</value>
-		<weight>5</weight>
-		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
+		<value>4 см</value>
+		<weight>2</weight>
+		<text>Корзина может вместить 2 кубических фута или 40 фунтов (20 кг.)</text>
 		<text />
-		<text>Источник: Книга игрока, страница 154</text>
+		<text>Источник: Книга игрока, страница 153</text>
 	</item>
 	<item>
-		<name>Common Clothes</name>
+		<enname>Bedroll</enname> 
+		<name>Спальник</name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>5 серебра</value>
+		<value>1 зм</value>
+		<weight>7</weight>
+		<text>Источник: Книга игрока, страница 150</text>
+	</item>
+	<item>
+		<enname>Bell</enname> 
+		<name>Колокольчик</name>
+		<type>Снаряжение</type>
+        <magic></magic>
+		<value>1 зм</value>
+		<text>Источник: Книга игрока, страница 150</text>
+	</item>
+	<item>
+		<enname>Blanket</enname> 
+		<name>Одеяло</name>
+		<type>Снаряжение</type>
+        <magic></magic>
+		<value>5 см</value>
 		<weight>3</weight>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Component Pouch</name>
+		<enname>Block and Tackle</enname> 
+		<name>Блок и лебёдка</name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>25 золота</value>
-		<weight>2</weight>
-		<text>A component pouch is a small, watertight leather belt pouch that has compartments to hold all the material components and other special items you need to cast your spells, except for those components that have a specific cost (as indicated in a spell's description).</text>
+		<value>1 зм</value>
+		<weight>5</weight>
+		<text>Набор блоков и тросов с крюками для подвешивания предметов. Блок и лебёдка позволяют вам поднять в четыре раза больше, чем обычно.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 151</text>
 	</item>
 	<item>
-		<name>Cook's Utensils</name>
+		<enname>Book</enname> 
+		<name>Книга</name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>1 золотая монета</value>
-		<weight>8</weight>
-		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
+		<value>25 зм</value>
+		<weight>5</weight>
+		<text>В книге могут быть стихи, документальные сведения, информация о чём-либо, диаграммы и заметки о гномьих приспособлениях, или что угодно другое, представленное текстом и картинками. Книга с заклинаниями — другое дело</text>
+		<text />
+		<text>Источник: Книга игрока, страница 151</text>
+	</item>
+	<item>
+		<enname>Brewer's Supplies</enname> 
+		<name>Инструменты пивовара</name>
+		<type>Снаряжение</type>
+        <magic></magic>
+		<value>20 зм</value>
+		<weight>9</weight>
+		<text>В эти особые наборы входят инструменты, необходимые для ремесла и торговли. В таблице приведены примеры самых распространённых наборов, каждый из которых связан со своим ремеслом. Владение инструментами ремесленника позволяет добавлять бонус мастерства к проверкам характеристик, совершённым при использовании инструментов в ремесле. Для каждого набора инструментов требуется отдельное владение.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 154</text>
 	</item>
 	<item>
-		<name>Costume Clothes</name>
+		<enname>Bucket</enname> <name>Ведро</name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>5 золота</value>
+		<value>5 мм</value>
+		<weight>2</weight>
+		<text>Ведро вмещает 3 галлона (11 лит.) жидкости или 0,5 кубических футов сухих веществ</text>
+		<text />
+		<text>Источник: Книга игрока, страница 153</text>
+	</item>
+	<item>
+		<enname>Bullseye Lantern</enname> 
+		<name>Фонарь, направленный</name>
+		<type>Снаряжение</type>
+        <magic></magic>
+		<value>10 зм</value>
+		<weight>2</weight>
+		<text>Направленный фонарь испускает яркий свет 60-футовым конусом и тусклый свет в пределах ещё 60 футов. Зажжённый фонарь горит 6 часов от одной фляги (1 пинта [0,5 литра]) масла.</text>
+		<text />
+		<text>Источник: Книга игрока, страница 152</text>
+	</item>
+	<item>
+		<enname>Burglar's Pack</enname> 
+		<name>Набор взломщика</name>
+		<type>Снаряжение</type>
+        <magic></magic>
+		<value>16 зм</value>
+		<weight>44.5</weight>
+		<text>Включает:</text>
+		<text />
+		<text>• рюкзак</text>
+		<text />
+		<text>• сумку с 1 000 металлических шариков</text>
+		<text />
+		<text>• 10 футов лески</text>
+		<text />
+		<text>• колокольчик</text>
+		<text />
+		<text>• 5 свечек</text>
+		<text />
+		<text>• ломик</text>
+		<text />
+		<text>• молоток</text>
+		<text />
+		<text>• 10 шлямбуров</text>
+		<text />
+		<text>• закрытый фонарь</text>
+		<text />
+		<text>• 2 фляги масла</text>
+		<text />
+		<text>• рационы на 5 дней</text>
+		<text />
+		<text>• трутница</text>
+		<text />
+		<text>• бурдюк</text>
+		<text />
+		<text>• 50-футовая пеньковая верёвка</text>
+		<text />
+		<text>Источник: Книга игрока, страница 151</text>
+	</item>
+	<item>
+		<enname>Calligrapher's Supplies</enname> 
+		<name>Инструменты каллиграфа</name>
+		<type>Снаряжение</type>
+        <magic></magic>
+		<value>10 зм</value>
+		<weight>5</weight>
+		<text>В эти особые наборы входят инструменты, необходимые для ремесла и торговли. В таблице приведены примеры самых распространённых наборов, каждый из которых связан со своим ремеслом. Владение инструментами ремесленника позволяет добавлять бонус мастерства к проверкам характеристик, совершённым при использовании инструментов в ремесле. Для каждого набора инструментов требуется отдельное владение.</text>
+		<text />
+		<text>Источник: Книга игрока, страница 154</text>
+	</item>
+	<item>
+		<enname>Caltrops (20)</enname> 
+		<name>Калтропы (20 штук в сумке)</name>
+		<type>Снаряжение</type>
+        <magic></magic>
+		<value>1 зм</value>
+		<weight>2</weight>
+		<text>Вы можете действием рассыпать сумку калтропов по площади в 5 × 5 футов. Все существа, входящие в эту область, должны преуспеть в спасброске Ловкости со Сл 15, иначе они останавливаются и получают колющий урон 1. Пока это существо не восстановит как минимум 1 хит, его скорость ходьбы уменьшена на 10 футов. Существо, перемещающееся по этой области с уменьшенной вдвое скоростью, не обязано совершать спасбросок.</text>
+		<text />
+		<text>Источник: Книга игрока, страница 151</text>
+	</item>
+	<item>
+		<enname>Candle</enname> 
+		<name>Свеча</name>
+		<type>Снаряжение</type>
+        <magic></magic>
+		<value>1 мм</value>
+		<text>В течение 1 часа свеча испускает яркий свет в пределах радиуса 5 футов и тусклый свет в пределах ещё 5 футов.</text>
+		<text />
+		<text>Источник: Книга игрока, страница 152</text>
+	</item>
+	<item>
+		<enname>Carpenter's Tools</enname> 
+		<name>Инструменты плотника</name>
+		<type>Снаряжение</type>
+        <magic></magic>
+		<value>8 зм</value>
+		<weight>6</weight>
+		<text>В эти особые наборы входят инструменты, необходимые для ремесла и торговли. В таблице приведены примеры самых распространённых наборов, каждый из которых связан со своим ремеслом. Владение инструментами ремесленника позволяет добавлять бонус мастерства к проверкам характеристик, совершённым при использовании инструментов в ремесле. Для каждого набора инструментов требуется отдельное владение.</text>
+		<text />
+		<text>Источник: Книга игрока, страница 154</text>
+	</item>
+	<item>
+		<enname>Cartographer's Tools</enname> 
+		<name>Инструменты картографа</name>
+		<type>Снаряжение</type>
+        <magic></magic>
+		<value>15 зм</value>
+		<weight>6</weight>
+		<text>В эти особые наборы входят инструменты, необходимые для ремесла и торговли. В таблице приведены примеры самых распространённых наборов, каждый из которых связан со своим ремеслом. Владение инструментами ремесленника позволяет добавлять бонус мастерства к проверкам характеристик, совершённым при использовании инструментов в ремесле. Для каждого набора инструментов требуется отдельное владение.</text>
+		<text />
+		<text>Источник: Книга игрока, страница 154</text>
+	</item>
+	<item>
+		<enname>Chain (10 feet)</enname> 
+		<name>Цепь</name>
+		<type>Снаряжение</type>
+        <magic></magic>
+		<value>5 зм</value>
+		<weight>10</weight>
+		<text>У цепи 10 хитов. Её можно порвать успешной проверкой Силы со Сл 20.</text>
+		<text />
+		<text>Источник: Книга игрока, страница 152</text>
+	</item>
+	<item>
+		<enname>Chalk (1 piece)</enname> 
+		<name>Мел (1 кусочек) </name>
+		<type>Снаряжение</type>
+        <magic></magic>
+		<value>1 мм</value>
+		<text>Источник: Книга игрока, страница 150</text>
+	</item>
+	<item>
+		<enname>Chest</enname> 
+		<name>Сундук</name>
+		<type>Снаряжение</type>
+        <magic></magic>
+		<value>5 зм</value>
+		<weight>25</weight>
+		<text>Сундук может вместить 2 кубических фута или 300 фунтов (150 кг.)</text>
+		<text />
+		<text>Источник: Книга игрока, страница 153</text>
+	</item>
+	<item>
+		<enname>Climber's Kit</enname> 
+		<name>Комплект для лазания</name>
+		<type>Снаряжение</type>
+        <magic></magic>
+		<value>25 зм</value>
+		<weight>12</weight>
+		<text>В  набор для лазания входят шлямбуры, накладные подошвы, перчатки и страховочная привязь. Вы можете действием использовать набор для лазания, чтобы закрепиться на высоте; если вы делаете это, вы не можете упасть более чем на 25 футов от того места, где закрепились, но и не можете подняться выше 25 футов от этого места, не открепившись.</text>
+		<text />
+		<text>Источник: Книга игрока, страница 151</text>
+	</item>
+	<item>
+		<enname>Cobbler's Tools</enname> 
+		<name>Инструменты сапожника</name>
+		<type>Снаряжение</type>
+        <magic></magic>
+		<value>5 зм</value>
+		<weight>5</weight>
+		<text>В эти особые наборы входят инструменты, необходимые для ремесла и торговли. В таблице приведены примеры самых распространённых наборов, каждый из которых связан со своим ремеслом. Владение инструментами ремесленника позволяет добавлять бонус мастерства к проверкам характеристик, совершённым при использовании инструментов в ремесле. Для каждого набора инструментов требуется отдельное владение.</text>
+		<text />
+		<text>Источник: Книга игрока, страница 154</text>
+	</item>
+	<item>
+		<enname>Common Clothes</enname> 
+		<name>Одежда, обычная</name>
+		<type>Снаряжение</type>
+        <magic></magic>
+		<value>5 см</value>
+		<weight>3</weight>
+		<text>Источник: Книга игрока, страница 150</text>
+	</item>
+	<item>
+		<enname>Component Pouch</enname> 
+		<name>Мешочек с компонентами</name>
+		<type>Снаряжение</type>
+        <magic></magic>
+		<value>25 зм</value>
+		<weight>2</weight>
+		<text>Мешочек с компонентами это маленький водонепроницаемый кожаный поясной кошель с отделениями для хранения материальных компонентов и других особых предметов, нужных для накладывания заклинаний, если только у этих компонентов не указана стоимость</text>
+		<text />
+		<text>Источник: Книга игрока, страница 151</text>
+	</item>
+	<item>
+		<enname>Cook's Utensils</enname> 
+		<name>Инструменты повара</name>
+		<type>Снаряжение</type>
+        <magic></magic>
+		<value>1 зм</value>
+		<weight>8</weight>
+		<text>В эти особые наборы входят инструменты, необходимые для ремесла и торговли. В таблице приведены примеры самых распространённых наборов, каждый из которых связан со своим ремеслом. Владение инструментами ремесленника позволяет добавлять бонус мастерства к проверкам характеристик, совершённым при использовании инструментов в ремесле. Для каждого набора инструментов требуется отдельное владение.</text>
+		<text />
+		<text>Источник: Книга игрока, страница 154</text>
+	</item>
+	<item>
+		<enname>Costume Clothes</enname> 
+		<name>Одежда, костюм </name>
+		<type>Снаряжение</type>
+        <magic></magic>
+		<value>5 зм</value>
 		<weight>4</weight>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Crossbow Bolt Case</name>
+		<enname>Crossbow Bolt Case</enname> 
+		<name>Контейнер для арбалетных болтов </name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>1 золотая монета</value>
+		<value>1 зм</value>
 		<weight>1</weight>
-		<text>This wooden case can hold up to twenty crossbow bolts.</text>
+		<text>В этот деревянный контейнер помещаются 20 арбалетных болтов.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 151</text>
 	</item>
 	<item>
-		<name>Crowbar</name>
+		<enname>Crowbar</enname> 
+		<name>Ломик</name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>2 золота</value>
+		<value>2 зм</value>
 		<weight>5</weight>
-		<text>Using a crowbar grants advantage to Strength checks where the crowbar's leverage can be applied.</text>
+		<text>Использование ломика позволяет совершать проверки Силы с преимуществом, если рычаг должен помочь</text>
 		<text />
 		<text>Источник: Книга игрока, страница 151</text>
 	</item>
 	<item>
-		<name>Crystal</name>
+		<enname>Crystal</enname> 
+		<name>Кристалл (Магическая фокусировка)</name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>10 золота</value>
+		<value>10 зм</value>
 		<weight>1</weight>
-		<text>An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus, using it in place of any material component which does not list a cost.</text>
+		<text>Магическая фокусировка это особый предмет — сфера, кристалл, жезл, особый посох, короткая деревянная палочка или похожий предмет — созданный для проведения тайных заклинаний. Волшебники, колдуны и чародеи могут использовать эти предметы в качестве фокусировки для заклинаний.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 151</text>
 	</item>
 	<item>
-		<name>Dice Set</name>
+		<enname>Dice Set</enname> 
+		<name>Кости (игровой набор)</name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>1 серебряная монета</value>
-		<text>If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</text>
+		<value>1 см</value>
+		<text>Если вы владеете игровым набором, вы можете добавлять бонус мастерства к проверкам характеристик, совершаемым во время игры. Для каждой игры требуется отдельное владение.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 154</text>
 	</item>
 	<item>
-		<name>Diplomat's Pack</name>
+		<enname>Diplomat's Pack</enname> 
+		<name>Набор дипломата </name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>39 золота</value>
+		<value>39 зм</value>
 		<weight>36</weight>
 		<text>Includes:</text>
 		<text />
-		<text>• a chest</text>
+		<text>• сундук</text>
 		<text />
-		<text>• 2 cases for maps and scrolls</text>
+		<text>• 2 контейнера для карт и свитков</text>
 		<text />
-		<text>• a set of fine clothes</text>
+		<text>• комплект отличной одежды</text>
 		<text />
-		<text>• a bottle of ink</text>
+		<text>• бутылочку чернил</text>
 		<text />
-		<text>• an ink pen</text>
+		<text>• писчее перо</text>
 		<text />
-		<text>• a lamp</text>
+		<text>• лампу</text>
 		<text />
-		<text>• 2 flasks of oil</text>
+		<text>• 2 фляги масла</text>
 		<text />
-		<text>• 5 sheets of paper</text>
+		<text>• 5 листов бумаги</text>
 		<text />
-		<text>• a vial of perfume</text>
+		<text>• флакон духов</text>
 		<text />
-		<text>• sealing wax</text>
+		<text>• воск</text>
 		<text />
-		<text>• soap.</text>
+		<text>• мыло</text>
 		<text />
 		<text>Источник: Книга игрока, страница 151</text>
 	</item>
 	<item>
-		<name>Disguise Kit</name>
+		<enname>Disguise Kit</enname> 
+		<name>Набор для грима</name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>25 золота</value>
+		<value>25 зм</value>
 		<weight>3</weight>
-		<text>This pouch of cosmetics, hair dye, and small props lets you create disguises that change your physical appearance. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a visual disguise.</text>
+		<text>Этот набор косметики, красителей для волос и бутафории позволяет изменять ваш внешний облик. Владение этим набором позволяет добавлять бонус мастерства к проверкам характеристик, совершённым для визуальной маскировки.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 154</text>
 	</item>
 	<item>
-		<name>Dragonchess Set</name>
+		<enname>Dragonchess Set</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>1 золотая монета</value>
+		<value>1 зм</value>
 		<weight>0.5</weight>
-		<text>If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</text>
+		<text>Если вы владеете игровым набором, вы можете добавлять бонус мастерства к проверкам характеристик, совершаемым во время игры. Для каждой игры требуется отдельное владение.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 154</text>
 	</item>
 	<item>
-		<name>Drum</name>
+		<enname>Drum</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>6 золота</value>
+		<value>6 зм</value>
 		<weight>3</weight>
 		<text>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument.</text>
 		<text />
@@ -649,10 +671,10 @@
 		<text>Источник: Книга игрока, страница 154</text>
 	</item>
 	<item>
-		<name>Dulcimer</name>
+		<enname>Dulcimer</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>25 золота</value>
+		<value>25 зм</value>
 		<weight>10</weight>
 		<text>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument.</text>
 		<text />
@@ -663,10 +685,10 @@
 		<text>Источник: Книга игрока, страница 154</text>
 	</item>
 	<item>
-		<name>Dungeoneer's Pack</name>
+		<enname>Dungeoneer's Pack</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>12 золота</value>
+		<value>12 зм</value>
 		<weight>61.5</weight>
 		<text>Includes:</text>
 		<text />
@@ -691,10 +713,10 @@
 		<text>Источник: Книга игрока, страница 151</text>
 	</item>
 	<item>
-		<name>Entertainer's Pack</name>
+		<enname>Entertainer's Pack</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>40 золота</value>
+		<value>40 зм</value>
 		<weight>38</weight>
 		<text>Includes:</text>
 		<text />
@@ -715,10 +737,10 @@
 		<text>Источник: Книга игрока, страница 151</text>
 	</item>
 	<item>
-		<name>Explorer's Pack</name>
+		<enname>Explorer's Pack</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>10 золота</value>
+		<value>10 зм</value>
 		<weight>59</weight>
 		<text>Includes:</text>
 		<text />
@@ -741,38 +763,38 @@
 		<text>Источник: Книга игрока, страница 151</text>
 	</item>
 	<item>
-		<name>Fine Clothes</name>
+		<enname>Fine Clothes</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>15 золота</value>
+		<value>15 зм</value>
 		<weight>6</weight>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Fishing Tackle</name>
+		<enname>Fishing Tackle</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>1 золотая монета</value>
+		<value>1 зм</value>
 		<weight>4</weight>
 		<text>This kit includes a wooden rod, silken line, corkwood bobbers, steel hooks, lead sinkers, velvet lures, and narrow netting.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 151</text>
 	</item>
 	<item>
-		<name>Flask</name>
+		<enname>Flask</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>1 медная монета</value>
+		<value>1 мм</value>
 		<weight>1</weight>
 		<text>A flask holds 1 pint of liquid.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 153</text>
 	</item>
 	<item>
-		<name>Flute</name>
+		<enname>Flute</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>2 золота</value>
+		<value>2 зм</value>
 		<weight>1</weight>
 		<text>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument.</text>
 		<text />
@@ -783,86 +805,86 @@
 		<text>Источник: Книга игрока, страница 154</text>
 	</item>
 	<item>
-		<name>Forgery Kit</name>
+		<enname>Forgery Kit</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>15 золота</value>
+		<value>15 зм</value>
 		<weight>5</weight>
 		<text>This small box contains a variety of papers and parchments, pens and inks, seals and sealing wax, gold and silver leaf, and other supplies necessary to create convincing forgeries of physical documents. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a physical forgery of a document.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 154</text>
 	</item>
 	<item>
-		<name>Glass Bottle</name>
+		<enname>Glass Bottle</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>2 золота</value>
+		<value>2 зм</value>
 		<weight>2</weight>
 		<text>A bottle holds 1 1/2 pints of liquid.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 153</text>
 	</item>
 	<item>
-		<name>Glassblower's Tools</name>
+		<enname>Glassblower's Tools</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>30 золота</value>
+		<value>30 зм</value>
 		<weight>5</weight>
-		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
+		<text>В эти особые наборы входят инструменты, необходимые для ремесла и торговли. В таблице приведены примеры самых распространённых наборов, каждый из которых связан со своим ремеслом. Владение инструментами ремесленника позволяет добавлять бонус мастерства к проверкам характеристик, совершённым при использовании инструментов в ремесле. Для каждого набора инструментов требуется отдельное владение.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 154</text>
 	</item>
 	<item>
-		<name>Grappling Hook</name>
+		<enname>Grappling Hook</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>2 золота</value>
+		<value>2 зм</value>
 		<weight>4</weight>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Hammer</name>
+		<enname>Hammer</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>1 золотая монета</value>
+		<value>1 зм</value>
 		<weight>3</weight>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Healer's Kit</name>
+		<enname>Healer's Kit</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>5 золота</value>
+		<value>5 зм</value>
 		<weight>3</weight>
 		<text>This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom (Medicine) check.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 151</text>
 	</item>
 	<item>
-		<name>Hempen Rope (50 feet)</name>
+		<enname>Hempen Rope (50 feet)</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>1 золотая монета</value>
+		<value>1 зм</value>
 		<weight>10</weight>
 		<text>Rope, whether made of hemp or silk, has 2 hit points and can be burst with a DC 17 Strength check.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 153</text>
 	</item>
 	<item>
-		<name>Herbalism Kit</name>
+		<enname>Herbalism Kit</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>5 золота</value>
+		<value>5 зм</value>
 		<weight>3</weight>
 		<text>This kit contains a variety of instruments such as clippers, mortar and pestle, and pouches and vials used by herbalists to create remedies and potions. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to identify or apply herbs. Also, proficiency with this kit is required to create antitoxin and potions of healing.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 154</text>
 	</item>
 	<item>
-		<name>Holy Symbol (Amulet)</name>
+		<enname>Holy Symbol (Amulet)</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>5 золота</value>
+		<value>5 зм</value>
 		<weight>1</weight>
 		<text>A holy symbol is a representation of a god or pantheon</text>
 		<text />
@@ -871,10 +893,10 @@
 		<text>Источник: Книга игрока, страница 151</text>
 	</item>
 	<item>
-		<name>Holy Symbol (Emblem)</name>
+		<enname>Holy Symbol (Emblem)</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>5 золота</value>
+		<value>5 зм</value>
 		<text>A holy symbol is a representation of a god or pantheon</text>
 		<text />
 		<text>A cleric or paladin can use a holy symbol as a spellcasting focus, using it in place of any material components which do not list a cost. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield.</text>
@@ -882,10 +904,10 @@
 		<text>Источник: Книга игрока, страница 151</text>
 	</item>
 	<item>
-		<name>Holy Symbol (Reliquary)</name>
+		<enname>Holy Symbol (Reliquary)</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>5 золота</value>
+		<value>5 зм</value>
 		<weight>2</weight>
 		<text>A holy symbol is a representation of a god or pantheon</text>
 		<text />
@@ -894,30 +916,30 @@
 		<text>Источник: Книга игрока, страница 151</text>
 	</item>
 	<item>
-		<name>Holy Water (flask)</name>
+		<enname>Holy Water (flask)</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>25 золота</value>
+		<value>25 зм</value>
 		<weight>1</weight>
 		<text>As an action, you can splash the contents of this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature, treating the holy water as an improvised weapon. If the target is a fiend or undead, it takes 2d6 radiant damage.\n\tA cleric or paladin may create holy water by performing a special ritual. The ritual takes 1 hour to perform, uses 25 gp worth of powdered silver, and requires the caster to expend a 1st-level spell slot.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 151</text>
 	</item>
 	<item>
-		<name>Hooded Lantern</name>
+		<enname>Hooded Lantern</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>5 золота</value>
+		<value>5 зм</value>
 		<weight>2</weight>
 		<text>A hooded lantern casts bright light in a 30-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil. As an action, you can lower the hood, reducing the light to dim light in a 5-foot radius.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 152</text>
 	</item>
 	<item>
-		<name>Horn</name>
+		<enname>Horn</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>3 золота</value>
+		<value>3 зм</value>
 		<weight>2</weight>
 		<text>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument.</text>
 		<text />
@@ -928,126 +950,126 @@
 		<text>Источник: Книга игрока, страница 154</text>
 	</item>
 	<item>
-		<name>Hourglass</name>
+		<enname>Hourglass</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>25 золота</value>
+		<value>25 зм</value>
 		<weight>1</weight>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Hunting Trap</name>
+		<enname>Hunting Trap</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>5 золота</value>
+		<value>5 зм</value>
 		<weight>25</weight>
 		<text>When you use your action to set it, this trap forms a saw-toothed steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 13 Dexterity saving throw or take 1d4 piercing damage and stop moving. Thereafter, until the creature breaks free of the trap, its movement is limited by the length of the chain (typically 3 feet long). A creature can use its action to make a DC 13 Strength check, freeing itself or another creature within its reach on a success. Each failed check deals 1 piercing damage to the trapped creature.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 152</text>
 	</item>
 	<item>
-		<name>Ink (1 ounce bottle)</name>
-		<value>10 золота</value>
+		<enname>Ink (1 ounce bottle)</enname> <name></name>
+		<value>10 зм</value>
 		<type>Снаряжение</type>
         <magic></magic>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Ink Pen</name>
-		<value>2 меди</value>
+		<enname>Ink Pen</enname> <name></name>
+		<value>2 мм</value>
 		<type>Снаряжение</type>
         <magic></magic>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Iron Pot</name>
+		<enname>Iron Pot</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>2 золота</value>
+		<value>2 зм</value>
 		<weight>10</weight>
 		<text>An iron pot holds 1 gallon of liquid.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 153</text>
 	</item>
 	<item>
-		<name>Iron Spikes</name>
+		<enname>Iron Spikes</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>1 серебряная монета</value>
+		<value>1 см</value>
 		<weight>0.5</weight>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Iron Spikes (10)</name>
+		<enname>Iron Spikes (10)</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>1 золотая монета</value>
+		<value>1 зм</value>
 		<weight>5</weight>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Jeweler's Tools</name>
+		<enname>Jeweler's Tools</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>25 золота</value>
+		<value>25 зм</value>
 		<weight>2</weight>
-		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
+		<text>В эти особые наборы входят инструменты, необходимые для ремесла и торговли. В таблице приведены примеры самых распространённых наборов, каждый из которых связан со своим ремеслом. Владение инструментами ремесленника позволяет добавлять бонус мастерства к проверкам характеристик, совершённым при использовании инструментов в ремесле. Для каждого набора инструментов требуется отдельное владение.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 154</text>
 	</item>
 	<item>
-		<name>Jug</name>
+		<enname>Jug</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>2 меди</value>
+		<value>2 мм</value>
 		<weight>4</weight>
 		<text>A jug holds 1 gallon of liquid.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 153</text>
 	</item>
 	<item>
-		<name>Ladder (10-foot)</name>
+		<enname>Ladder (10-foot)</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>1 серебряная монета</value>
+		<value>1 см</value>
 		<weight>25</weight>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Lamp</name>
+		<enname>Lamp</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>5 серебра</value>
+		<value>5 см</value>
 		<weight>1</weight>
 		<text>A lamp casts bright light in a 15-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 152</text>
 	</item>
 	<item>
-		<name>Leatherworker's Tools</name>
+		<enname>Leatherworker's Tools</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>5 золота</value>
+		<value>5 зм</value>
 		<weight>5</weight>
-		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
+		<text>В эти особые наборы входят инструменты, необходимые для ремесла и торговли. В таблице приведены примеры самых распространённых наборов, каждый из которых связан со своим ремеслом. Владение инструментами ремесленника позволяет добавлять бонус мастерства к проверкам характеристик, совершённым при использовании инструментов в ремесле. Для каждого набора инструментов требуется отдельное владение.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 154</text>
 	</item>
 	<item>
-		<name>Lock</name>
+		<enname>Lock</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>10 золота</value>
+		<value>10 зм</value>
 		<weight>1</weight>
 		<text>A key is provided with the lock. Without the key, a creature proficient with thieves' tools can pick this lock with a successful DC 15 Dexterity check. Your DM may decide that better locks are available for higher prices.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 152</text>
 	</item>
 	<item>
-		<name>Lute</name>
+		<enname>Lute</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>35 золота</value>
+		<value>35 зм</value>
 		<weight>2</weight>
 		<text>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument.</text>
 		<text />
@@ -1058,10 +1080,10 @@
 		<text>Источник: Книга игрока, страница 154</text>
 	</item>
 	<item>
-		<name>Lyre</name>
+		<enname>Lyre</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>30 золота</value>
+		<value>30 зм</value>
 		<weight>2</weight>
 		<text>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument.</text>
 		<text />
@@ -1072,117 +1094,117 @@
 		<text>Источник: Книга игрока, страница 154</text>
 	</item>
 	<item>
-		<name>Magnifying Glass</name>
+		<enname>Magnifying Glass</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>100 золота</value>
+		<value>100 зм</value>
 		<text>This lens allows a closer look at small objects. It is also useful as a substitute for flint and steel when starting fires. Lighting a fire with a magnifying glass requires light as bright as sunlight to focus, tinder to ignite, and about 5 minutes for the fire to ignite. A magnifying glass grants advantage on any ability check made to appraise or inspect an item that is small or highly detailed.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 152</text>
 	</item>
 	<item>
-		<name>Manacles</name>
+		<enname>Manacles</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>2 золота</value>
+		<value>2 зм</value>
 		<weight>6</weight>
 		<text>These metal restraints can bind a Small or Medium creature. Escaping the manacles requires a successful DC 20 Dexterity check. Breaking them requires a successful DC 20 Strength check. Each set of manacles comes with one key. Without the key, a creature proficient with thieves' tools can pick the manacles' lock with a successful DC 15 Dexterity check. Manacles have 15 hit points.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 152</text>
 	</item>
 	<item>
-		<name>Map or Scroll Case</name>
+		<enname>Map or Scroll Case</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>1 золотая монета</value>
+		<value>1 зм</value>
 		<weight>1</weight>
 		<text>This cylindrical leather case can hold up to ten rolled-up sheets of paper or five rolled-up sheets of parchment.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 151</text>
 	</item>
 	<item>
-		<name>Mason's Tools</name>
+		<enname>Mason's Tools</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>10 золота</value>
+		<value>10 зм</value>
 		<weight>8</weight>
-		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
+		<text>В эти особые наборы входят инструменты, необходимые для ремесла и торговли. В таблице приведены примеры самых распространённых наборов, каждый из которых связан со своим ремеслом. Владение инструментами ремесленника позволяет добавлять бонус мастерства к проверкам характеристик, совершённым при использовании инструментов в ремесле. Для каждого набора инструментов требуется отдельное владение.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 154</text>
 	</item>
 	<item>
-		<name>Merchant's Scale</name>
+		<enname>Merchant's Scale</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>5 золота</value>
+		<value>5 зм</value>
 		<weight>3</weight>
 		<text>A scale includes a small balance, pans, and a suitable assortment of weights up to 2 pounds. With it, you can measure the exact weight of small objects, such as raw precious metals or trade goods, to help determine their worth.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 153</text>
 	</item>
 	<item>
-		<name>Mess Kit</name>
+		<enname>Mess Kit</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>2 серебра</value>
+		<value>2 см</value>
 		<weight>1</weight>
 		<text>This tin box contains a cup and simple cutlery. The box clamps together, and one side can be used as a cooking pan and the other as a plate or shallow bowl.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 152</text>
 	</item>
 	<item>
-		<name>Miner's Pick</name>
+		<enname>Miner's Pick</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>2 золота</value>
+		<value>2 зм</value>
 		<weight>10</weight>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Navigator's Tools</name>
+		<enname>Navigator's Tools</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>25 золота</value>
+		<value>25 зм</value>
 		<weight>2</weight>
 		<text>This set of instruments is used for navigation at sea. Proficiency with navigator's tools lets you chart a ship's course and follow navigation charts. In addition, these tools allow you to add your proficiency bonus to any ability check you make to avoid getting lost at sea.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 154</text>
 	</item>
 	<item>
-		<name>Oil (flask)</name>
+		<enname>Oil (flask)</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>1 серебряная монета</value>
+		<value>1 см</value>
 		<weight>1</weight>
 		<text>Oil usually comes in a clay flask that holds 1 pint. As an action, you can splash the oil in this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. Make a ranged attack against a target creature or object, treating the oil as an improvised weapon. On a hit, the target is covered in oil. If the target takes any fire damage before the oil dries (after 1 minute), the target takes an additional 5 fire damage from the burning oil. You can also pour a flask of oil on the ground to cover a 5-foot-square area, provided that the surface is level. If lit, the oil burns for 2 rounds and deals 5 fire damage to any creature that enters the area or ends its turn in the area. A creature can take this damage only once per turn.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 152</text>
 	</item>
 	<item>
-		<name>Orb</name>
+		<enname>Orb</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>25 золота</value>
+		<value>25 зм</value>
 		<weight>3</weight>
-		<text>An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus, using it in place of any material component which does not list a cost.</text>
+		<text>Магическая фокусировка это особый предмет — сфера, кристалл, жезл, особый посох, короткая деревянная палочка или похожий предмет — созданный для проведения тайных заклинаний. Волшебники, колдуны и чародеи могут использовать эти предметы в качестве фокусировки для заклинаний.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 151</text>
 	</item>
 	<item>
-		<name>Painter's Supplies</name>
+		<enname>Painter's Supplies</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>10 золота</value>
+		<value>10 зм</value>
 		<weight>5</weight>
-		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
+		<text>В эти особые наборы входят инструменты, необходимые для ремесла и торговли. В таблице приведены примеры самых распространённых наборов, каждый из которых связан со своим ремеслом. Владение инструментами ремесленника позволяет добавлять бонус мастерства к проверкам характеристик, совершённым при использовании инструментов в ремесле. Для каждого набора инструментов требуется отдельное владение.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 154</text>
 	</item>
 	<item>
-		<name>Pan Flute</name>
+		<enname>Pan Flute</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>12 золота</value>
+		<value>12 зм</value>
 		<weight>2</weight>
 		<text>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument.</text>
 		<text />
@@ -1193,106 +1215,106 @@
 		<text>Источник: Книга игрока, страница 154</text>
 	</item>
 	<item>
-		<name>Paper (one sheet)</name>
+		<enname>Paper (one sheet)</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>2 серебра</value>
+		<value>2 см</value>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Parchment (one sheet)</name>
+		<enname>Parchment (one sheet)</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>1 серебряная монета</value>
+		<value>1 см</value>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Perfume (vial)</name>
+		<enname>Perfume (vial)</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>5 золота</value>
+		<value>5 зм</value>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Pitcher</name>
+		<enname>Pitcher</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>2 меди</value>
+		<value>2 мм</value>
 		<weight>4</weight>
 		<text>A pitcher holds 1 gallon of liquid.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 153</text>
 	</item>
 	<item>
-		<name>Piton</name>
+		<enname>Piton</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>5 меди</value>
+		<value>5 мм</value>
 		<weight>0.25</weight>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Playing Card Set</name>
+		<enname>Playing Card Set</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>5 серебра</value>
-		<text>If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</text>
+		<value>5 см</value>
+		<text>Если вы владеете игровым набором, вы можете добавлять бонус мастерства к проверкам характеристик, совершаемым во время игры. Для каждой игры требуется отдельное владение.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 154</text>
 	</item>
 	<item>
-		<name>Poisoner's Kit</name>
+		<enname>Poisoner's Kit</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>50 золота</value>
+		<value>50 зм</value>
 		<weight>2</weight>
 		<text>A poisoner's kit includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 154</text>
 	</item>
 	<item>
-		<name>Pole (10-foot)</name>
+		<enname>Pole (10-foot)</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>5 меди</value>
+		<value>5 мм</value>
 		<weight>7</weight>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Portable Ram</name>
+		<enname>Portable Ram</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>4 золота</value>
+		<value>4 зм</value>
 		<weight>35</weight>
 		<text>You can use a portable ram to break down doors. When doing so, you gain a +4 bonus on the Strength check. One other character can help you use the ram, giving you advantage on this check.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 153</text>
 	</item>
 	<item>
-		<name>Potter's Tools</name>
+		<enname>Potter's Tools</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>10 золота</value>
+		<value>10 зм</value>
 		<weight>3</weight>
-		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
+		<text>В эти особые наборы входят инструменты, необходимые для ремесла и торговли. В таблице приведены примеры самых распространённых наборов, каждый из которых связан со своим ремеслом. Владение инструментами ремесленника позволяет добавлять бонус мастерства к проверкам характеристик, совершённым при использовании инструментов в ремесле. Для каждого набора инструментов требуется отдельное владение.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 154</text>
 	</item>
 	<item>
-		<name>Pouch</name>
+		<enname>Pouch</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>5 серебра</value>
+		<value>5 см</value>
 		<weight>1</weight>
 		<text>A cloth or leather pouch can hold up to 20 sling bullets or 50 blowgun needles, among other things. A compartmentalized pouch for holding spell components is called a component pouch. A pouch can hold up to 1/5 cubic foot or 6 pounds of gear.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 153</text>
 	</item>
 	<item>
-		<name>Priest's Pack</name>
+		<enname>Priest's Pack</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>19 золота</value>
+		<value>19 зм</value>
 		<weight>24</weight>
 		<text>Includes:</text>
 		<text />
@@ -1319,58 +1341,58 @@
 		<text>Источник: Книга игрока, страница 151</text>
 	</item>
 	<item>
-		<name>Quiver</name>
+		<enname>Quiver</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>1 золотая монета</value>
+		<value>1 зм</value>
 		<weight>1</weight>
 		<text>A quiver can hold up to 20 arrows.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 153</text>
 	</item>
 	<item>
-		<name>Rations (1 day)</name>
+		<enname>Rations (1 day)</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>5 серебра</value>
+		<value>5 см</value>
 		<weight>2</weight>
 		<text>Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 153</text>
 	</item>
 	<item>
-		<name>Robes</name>
+		<enname>Robes</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>1 золотая монета</value>
+		<value>1 зм</value>
 		<weight>4</weight>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Rod</name>
+		<enname>Rod</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>10 золота</value>
+		<value>10 зм</value>
 		<weight>2</weight>
-		<text>An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus, using it in place of any material component which does not list a cost.</text>
+		<text>Магическая фокусировка это особый предмет — сфера, кристалл, жезл, особый посох, короткая деревянная палочка или похожий предмет — созданный для проведения тайных заклинаний. Волшебники, колдуны и чародеи могут использовать эти предметы в качестве фокусировки для заклинаний.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 151</text>
 	</item>
 	<item>
-		<name>Sack</name>
+		<enname>Sack</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>1 медная монета</value>
+		<value>1 мм</value>
 		<weight>0.5</weight>
 		<text>A sack can hold up to 1 cubic foot or 30 pounds of gear.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 153</text>
 	</item>
 	<item>
-		<name>Scholar's Pack</name>
+		<enname>Scholar's Pack</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>40 золота</value>
+		<value>40 зм</value>
 		<weight>10</weight>
 		<text>Includes:</text>
 		<text />
@@ -1391,17 +1413,17 @@
 		<text>Источник: Книга игрока, страница 151</text>
 	</item>
 	<item>
-		<name>Sealing Wax</name>
-		<value>5 серебра</value>
+		<enname>Sealing Wax</enname> <name></name>
+		<value>5 см</value>
 		<type>Снаряжение</type>
         <magic></magic>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Shawm</name>
+		<enname>Shawm</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>2 золота</value>
+		<value>2 зм</value>
 		<weight>1</weight>
 		<text>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument.</text>
 		<text />
@@ -1412,208 +1434,208 @@
 		<text>Источник: Книга игрока, страница 154</text>
 	</item>
 	<item>
-		<name>Shovel</name>
+		<enname>Shovel</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>2 золота</value>
+		<value>2 зм</value>
 		<weight>5</weight>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Signal Whistle</name>
-		<value>5 меди</value>
+		<enname>Signal Whistle</enname> <name></name>
+		<value>5 мм</value>
 		<type>Снаряжение</type>
         <magic></magic>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Signet Ring</name>
-		<value>5 золота</value>
+		<enname>Signet Ring</enname> <name></name>
+		<value>5 зм</value>
 		<type>Снаряжение</type>
         <magic></magic>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Silk Rope (50 feet)</name>
+		<enname>Silk Rope (50 feet)</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>10 золота</value>
+		<value>10 зм</value>
 		<weight>5</weight>
 		<text>Rope, whether made of hemp or silk, has 2 hit points and can be burst with a DC 17 Strength check.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 153</text>
 	</item>
 	<item>
-		<name>Sledge Hammer</name>
-		<value>2 золота</value>
+		<enname>Sledge Hammer</enname> <name></name>
+		<value>2 зм</value>
 		<type>Снаряжение</type>
         <magic></magic>
 		<weight>10</weight>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Smith's Tools</name>
+		<enname>Smith's Tools</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>20 золота</value>
+		<value>20 зм</value>
 		<weight>8</weight>
-		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
+		<text>В эти особые наборы входят инструменты, необходимые для ремесла и торговли. В таблице приведены примеры самых распространённых наборов, каждый из которых связан со своим ремеслом. Владение инструментами ремесленника позволяет добавлять бонус мастерства к проверкам характеристик, совершённым при использовании инструментов в ремесле. Для каждого набора инструментов требуется отдельное владение.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 154</text>
 	</item>
 	<item>
-		<name>Soap</name>
+		<enname>Soap</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>2 меди</value>
+		<value>2 мм</value>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Spellbook</name>
+		<enname>Spellbook</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>50 золота</value>
+		<value>50 зм</value>
 		<weight>3</weight>
 		<text>Essential for wizards, a spellbook is a leather-bound tome with 100 blank vellum pages suitable for recording spells.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 153</text>
 	</item>
 	<item>
-		<name>Sprig of Mistletoe</name>
+		<enname>Sprig of Mistletoe</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>1 золотая монета</value>
+		<value>1 зм</value>
 		<text>A druid can use such a druidic focus as a spellcasting focus, using it in place of any material component that does not have a cost.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 151</text>
 	</item>
 	<item>
-		<name>Spyglass</name>
+		<enname>Spyglass</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>1000 золота</value>
+		<value>1000 зм</value>
 		<weight>1</weight>
 		<text>Objects viewed through a spyglass are magnified to twice their size.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 153</text>
 	</item>
 	<item>
-		<name>Staff</name>
+		<enname>Staff</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>5 золота</value>
+		<value>5 зм</value>
 		<weight>4</weight>
-		<text>An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus, using it in place of any material component which does not list a cost.</text>
+		<text>Магическая фокусировка это особый предмет — сфера, кристалл, жезл, особый посох, короткая деревянная палочка или похожий предмет — созданный для проведения тайных заклинаний. Волшебники, колдуны и чародеи могут использовать эти предметы в качестве фокусировки для заклинаний.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 151</text>
 	</item>
 	<item>
-		<name>Steel Mirror</name>
+		<enname>Steel Mirror</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>5 золота</value>
+		<value>5 зм</value>
 		<weight>0.5</weight>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Tankard</name>
+		<enname>Tankard</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>1 медная монета</value>
+		<value>1 мм</value>
 		<text>A tankard holds 1 pint of liquid.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 153</text>
 	</item>
 	<item>
-		<name>Thieves' Tools</name>
+		<enname>Thieves' Tools</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>25 золота</value>
+		<value>25 зм</value>
 		<weight>1</weight>
 		<text>This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your proficiency bonus to any ability checks you make to disarm traps or open locks.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 154</text>
 	</item>
 	<item>
-		<name>Three-Dragon Ante Set</name>
+		<enname>Three-Dragon Ante Set</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>1 золотая монета</value>
-		<text>If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</text>
+		<value>1 зм</value>
+		<text>Если вы владеете игровым набором, вы можете добавлять бонус мастерства к проверкам характеристик, совершаемым во время игры. Для каждой игры требуется отдельное владение.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 154</text>
 	</item>
 	<item>
-		<name>Tinderbox</name>
+		<enname>Tinderbox</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>5 серебра</value>
+		<value>5 см</value>
 		<weight>1</weight>
 		<text>This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch - or anything else with abundant, exposed fuel - takes an action. Lighting any other fire takes 1 minute.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 153</text>
 	</item>
 	<item>
-		<name>Tinker's Tools</name>
+		<enname>Tinker's Tools</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>50 золота</value>
+		<value>50 зм</value>
 		<weight>10</weight>
-		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
+		<text>В эти особые наборы входят инструменты, необходимые для ремесла и торговли. В таблице приведены примеры самых распространённых наборов, каждый из которых связан со своим ремеслом. Владение инструментами ремесленника позволяет добавлять бонус мастерства к проверкам характеристик, совершённым при использовании инструментов в ремесле. Для каждого набора инструментов требуется отдельное владение.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 154</text>
 	</item>
 	<item>
-		<name>Torch</name>
+		<enname>Torch</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>1 медная монета</value>
+		<value>1 мм</value>
 		<weight>1</weight>
 		<text>A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 153</text>
 	</item>
 	<item>
-		<name>Totem</name>
+		<enname>Totem</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>1 золотая монета</value>
+		<value>1 зм</value>
 		<text>A druid can use such a druidic focus as a spellcasting focus, using it in place of any material component that does not have a cost.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 151</text>
 	</item>
 	<item>
-		<name>Traveler's Clothes</name>
+		<enname>Traveler's Clothes</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>2 золота</value>
+		<value>2 зм</value>
 		<weight>4</weight>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Two-Person Tent</name>
+		<enname>Two-Person Tent</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>2 золота</value>
+		<value>2 зм</value>
 		<weight>20</weight>
 		<text>A simple and portable canvas shelter, a tent sleeps two.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 153</text>
 	</item>
 	<item>
-		<name>Vial</name>
+		<enname>Vial</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>1 золотая монета</value>
+		<value>1 зм</value>
 		<text>A vial can hold up to 4 ounces of liquid.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 153</text>
 	</item>
 	<item>
-		<name>Viol</name>
+		<enname>Viol</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>30 золота</value>
+		<value>30 зм</value>
 		<weight>1</weight>
 		<text>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument.</text>
 		<text />
@@ -1624,78 +1646,78 @@
 		<text>Источник: Книга игрока, страница 154</text>
 	</item>
 	<item>
-		<name>Wand</name>
+		<enname>Wand</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>10 золота</value>
+		<value>10 зм</value>
 		<weight>1</weight>
-		<text>An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus, using it in place of any material component which does not list a cost.</text>
+		<text>Магическая фокусировка это особый предмет — сфера, кристалл, жезл, особый посох, короткая деревянная палочка или похожий предмет — созданный для проведения тайных заклинаний. Волшебники, колдуны и чародеи могут использовать эти предметы в качестве фокусировки для заклинаний.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 151</text>
 	</item>
 	<item>
-		<name>Waterskin</name>
+		<enname>Waterskin</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>2 серебра</value>
+		<value>2 см</value>
 		<weight>5</weight>
 		<text>A waterskin can hold up to 4 pints of liquid.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 153</text>
 	</item>
 	<item>
-		<name>Weaver's Tools</name>
+		<enname>Weaver's Tools</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>1 золотая монета</value>
+		<value>1 зм</value>
 		<weight>5</weight>
-		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
+		<text>В эти особые наборы входят инструменты, необходимые для ремесла и торговли. В таблице приведены примеры самых распространённых наборов, каждый из которых связан со своим ремеслом. Владение инструментами ремесленника позволяет добавлять бонус мастерства к проверкам характеристик, совершённым при использовании инструментов в ремесле. Для каждого набора инструментов требуется отдельное владение.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 154</text>
 	</item>
 	<item>
-		<name>Whetstone</name>
+		<enname>Whetstone</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>1 медная монета</value>
+		<value>1 мм</value>
 		<weight>1</weight>
 		<text>Источник: Книга игрока, страница 150</text>
 	</item>
 	<item>
-		<name>Woodcarver's Tools</name>
+		<enname>Woodcarver's Tools</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>1 золотая монета</value>
+		<value>1 зм</value>
 		<weight>5</weight>
-		<text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</text>
+		<text>В эти особые наборы входят инструменты, необходимые для ремесла и торговли. В таблице приведены примеры самых распространённых наборов, каждый из которых связан со своим ремеслом. Владение инструментами ремесленника позволяет добавлять бонус мастерства к проверкам характеристик, совершённым при использовании инструментов в ремесле. Для каждого набора инструментов требуется отдельное владение.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 154</text>
 	</item>
 	<item>
-		<name>Wooden Staff</name>
+		<enname>Wooden Staff</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>5 золота</value>
+		<value>5 зм</value>
 		<weight>4</weight>
 		<text>A druid can use such a druidic focus as a spellcasting focus, using it in place of any material component that does not have a cost.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 151</text>
 	</item>
 	<item>
-		<name>Yew Wand</name>
+		<enname>Yew Wand</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>10 золота</value>
+		<value>10 зм</value>
 		<weight>1</weight>
 		<text>A druid can use such a druidic focus as a spellcasting focus, using it in place of any material component that does not have a cost.</text>
 		<text />
 		<text>Источник: Книга игрока, страница 151</text>
 	</item>
 	<item>
-		<name>Chain Mail</name>
+		<enname>Chain Mail</enname> <name></name>
 		<type>HA</type>
         <magic></magic>
-		<value>75 золота</value>
+		<value>75 зм</value>
 		<weight>55</weight>
 		<ac>16</ac>
 		<strength>13</strength>
@@ -1705,10 +1727,10 @@
 		<text>Источник: Книга игрока, страница 145</text>
 	</item>
 	<item>
-		<name>Plate Armor</name>
+		<enname>Plate Armor</enname> <name></name>
 		<type>HA</type>
         <magic></magic>
-		<value>1500 золота</value>
+		<value>1500 зм</value>
 		<weight>65</weight>
 		<ac>18</ac>
 		<strength>15</strength>
@@ -1718,10 +1740,10 @@
 		<text>Источник: Книга игрока, страница 145</text>
 	</item>
 	<item>
-		<name>Ring Mail</name>
+		<enname>Ring Mail</enname> <name></name>
 		<type>HA</type>
         <magic></magic>
-		<value>30 золота</value>
+		<value>30 зм</value>
 		<weight>40</weight>
 		<ac>14</ac>
 		<stealth>YES</stealth>
@@ -1730,10 +1752,10 @@
 		<text>Источник: Книга игрока, страница 145</text>
 	</item>
 	<item>
-		<name>Splint Armor</name>
+		<enname>Splint Armor</enname> <name></name>
 		<type>HA</type>
         <magic></magic>
-		<value>200 золота</value>
+		<value>200 зм</value>
 		<weight>60</weight>
 		<ac>17</ac>
 		<strength>15</strength>
@@ -1743,10 +1765,10 @@
 		<text>Источник: Книга игрока, страница 145</text>
 	</item>
 	<item>
-		<name>Leather Armor</name>
+		<enname>Leather Armor</enname> <name></name>
 		<type>LA</type>
         <magic></magic>
-		<value>10 золота</value>
+		<value>10 зм</value>
 		<weight>10</weight>
 		<ac>11</ac>
 		<text>The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials.</text>
@@ -1754,10 +1776,10 @@
 		<text>Источник: Книга игрока, страница 144</text>
 	</item>
 	<item>
-		<name>Padded Armor</name>
+		<enname>Padded Armor</enname> <name></name>
 		<type>LA</type>
         <magic></magic>
-		<value>5 золота</value>
+		<value>5 зм</value>
 		<weight>8</weight>
 		<ac>11</ac>
 		<stealth>YES</stealth>
@@ -1766,10 +1788,10 @@
 		<text>Источник: Книга игрока, страница 144</text>
 	</item>
 	<item>
-		<name>Studded Leather Armor</name>
+		<enname>Studded Leather Armor</enname> <name></name>
 		<type>LA</type>
         <magic></magic>
-		<value>45 золота</value>
+		<value>45 зм</value>
 		<weight>13</weight>
 		<ac>12</ac>
 		<text>Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes.</text>
@@ -1777,10 +1799,10 @@
 		<text>Источник: Книга игрока, страница 144</text>
 	</item>
 	<item>
-		<name>Battleaxe</name>
+		<enname>Battleaxe</enname> <name></name>
 		<type>M</type>
         <magic></magic>
-		<value>10 золота</value>
+		<value>10 зм</value>
 		<weight>4</weight>
 		<dmg1>1d8</dmg1>
 		<dmg2>1d10</dmg2>
@@ -1791,10 +1813,10 @@
 		<text>Источник: Книга игрока, страница 149</text>
 	</item>
 	<item>
-		<name>Club</name>
+		<enname>Club</enname> <name></name>
 		<type>M</type>
         <magic></magic>
-		<value>1 серебряная монета</value>
+		<value>1 см</value>
 		<weight>2</weight>
 		<dmg1>1d4</dmg1>
 		<dmgType>B</dmgType>
@@ -1804,10 +1826,10 @@
 		<text>Источник: Книга игрока, страница 149</text>
 	</item>
 	<item>
-		<name>Dagger</name>
+		<enname>Dagger</enname> <name></name>
 		<type>M</type>
         <magic></magic>
-		<value>2 золота</value>
+		<value>2 зм</value>
 		<weight>1</weight>
 		<dmg1>1d4</dmg1>
 		<dmgType>P</dmgType>
@@ -1824,20 +1846,20 @@
 		<text>Источник: Книга игрока, страница 149</text>
 	</item>
 	<item>
-		<name>Flail</name>
+		<enname>Flail</enname> <name></name>
 		<type>M</type>
         <magic></magic>
-		<value>10 золота</value>
+		<value>10 зм</value>
 		<weight>2</weight>
 		<dmg1>1d8</dmg1>
 		<dmgType>B</dmgType>
 		<text>Источник: Книга игрока, страница 149</text>
 	</item>
 	<item>
-		<name>Glaive</name>
+		<enname>Glaive</enname> <name></name>
 		<type>M</type>
         <magic></magic>
-		<value>20 золота</value>
+		<value>20 зм</value>
 		<weight>6</weight>
 		<dmg1>1d10</dmg1>
 		<dmgType>S</dmgType>
@@ -1851,10 +1873,10 @@
 		<text>Источник: Книга игрока, страница 149</text>
 	</item>
 	<item>
-		<name>Greataxe</name>
+		<enname>Greataxe</enname> <name></name>
 		<type>M</type>
         <magic></magic>
-		<value>30 золота</value>
+		<value>30 зм</value>
 		<weight>7</weight>
 		<dmg1>1d12</dmg1>
 		<dmgType>S</dmgType>
@@ -1866,10 +1888,10 @@
 		<text>Источник: Книга игрока, страница 149</text>
 	</item>
 	<item>
-		<name>Greatclub</name>
+		<enname>Greatclub</enname> <name></name>
 		<type>M</type>
         <magic></magic>
-		<value>2 серебра</value>
+		<value>2 см</value>
 		<weight>10</weight>
 		<dmg1>1d8</dmg1>
 		<dmgType>B</dmgType>
@@ -1879,10 +1901,10 @@
 		<text>Источник: Книга игрока, страница 149</text>
 	</item>
 	<item>
-		<name>Greatsword</name>
+		<enname>Greatsword</enname> <name></name>
 		<type>M</type>
         <magic></magic>
-		<value>50 золота</value>
+		<value>50 зм</value>
 		<weight>6</weight>
 		<dmg1>2d6</dmg1>
 		<dmgType>S</dmgType>
@@ -1894,10 +1916,10 @@
 		<text>Источник: Книга игрока, страница 149</text>
 	</item>
 	<item>
-		<name>Halberd</name>
+		<enname>Halberd</enname> <name></name>
 		<type>M</type>
         <magic></magic>
-		<value>20 золота</value>
+		<value>20 зм</value>
 		<weight>6</weight>
 		<dmg1>1d10</dmg1>
 		<dmgType>S</dmgType>
@@ -1909,10 +1931,10 @@
 		<text>Источник: Книга игрока, страница 149</text>
 	</item>
 	<item>
-		<name>Handaxe</name>
+		<enname>Handaxe</enname> <name></name>
 		<type>M</type>
         <magic></magic>
-		<value>5 золота</value>
+		<value>5 зм</value>
 		<weight>2</weight>
 		<dmg1>1d6</dmg1>
 		<dmgType>S</dmgType>
@@ -1927,10 +1949,10 @@
 		<text>Источник: Книга игрока, страница 149</text>
 	</item>
 	<item>
-		<name>Javelin</name>
+		<enname>Javelin</enname> <name></name>
 		<type>M</type>
         <magic></magic>
-		<value>2 серебра</value>
+		<value>2 см</value>
 		<weight>2</weight>
 		<dmg1>1d6</dmg1>
 		<dmgType>P</dmgType>
@@ -1943,10 +1965,10 @@
 		<text>Источник: Книга игрока, страница 149</text>
 	</item>
 	<item>
-		<name>Lance</name>
+		<enname>Lance</enname> <name></name>
 		<type>M</type>
         <magic></magic>
-		<value>10 золота</value>
+		<value>10 зм</value>
 		<weight>6</weight>
 		<dmg1>1d12</dmg1>
 		<dmgType>P</dmgType>
@@ -1958,10 +1980,10 @@
 		<text>Источник: Книга игрока, страница 149</text>
 	</item>
 	<item>
-		<name>Light Hammer</name>
+		<enname>Light Hammer</enname> <name></name>
 		<type>M</type>
         <magic></magic>
-		<value>2 золота</value>
+		<value>2 зм</value>
 		<weight>2</weight>
 		<dmg1>1d4</dmg1>
 		<dmgType>B</dmgType>
@@ -1976,10 +1998,10 @@
 		<text>Источник: Книга игрока, страница 149</text>
 	</item>
 	<item>
-		<name>Longsword</name>
+		<enname>Longsword</enname> <name></name>
 		<type>M</type>
         <magic></magic>
-		<value>15 золота</value>
+		<value>15 зм</value>
 		<weight>3</weight>
 		<dmg1>1d8</dmg1>
 		<dmg2>1d10</dmg2>
@@ -1990,20 +2012,20 @@
 		<text>Источник: Книга игрока, страница 149</text>
 	</item>
 	<item>
-		<name>Mace</name>
+		<enname>Mace</enname> <name></name>
 		<type>M</type>
         <magic></magic>
-		<value>5 золота</value>
+		<value>5 зм</value>
 		<weight>4</weight>
 		<dmg1>1d6</dmg1>
 		<dmgType>B</dmgType>
 		<text>Источник: Книга игрока, страница 149</text>
 	</item>
 	<item>
-		<name>Maul</name>
+		<enname>Maul</enname> <name></name>
 		<type>M</type>
         <magic></magic>
-		<value>10 золота</value>
+		<value>10 зм</value>
 		<weight>10</weight>
 		<dmg1>2d6</dmg1>
 		<dmgType>B</dmgType>
@@ -2015,20 +2037,20 @@
 		<text>Источник: Книга игрока, страница 149</text>
 	</item>
 	<item>
-		<name>Morningstar</name>
+		<enname>Morningstar</enname> <name></name>
 		<type>M</type>
         <magic></magic>
-		<value>15 золота</value>
+		<value>15 зм</value>
 		<weight>4</weight>
 		<dmg1>1d8</dmg1>
 		<dmgType>P</dmgType>
 		<text>Источник: Книга игрока, страница 149</text>
 	</item>
 	<item>
-		<name>Pike</name>
+		<enname>Pike</enname> <name></name>
 		<type>M</type>
         <magic></magic>
-		<value>5 золота</value>
+		<value>5 зм</value>
 		<weight>18</weight>
 		<dmg1>1d10</dmg1>
 		<dmgType>P</dmgType>
@@ -2042,10 +2064,10 @@
 		<text>Источник: Книга игрока, страница 149</text>
 	</item>
 	<item>
-		<name>Quarterstaff</name>
+		<enname>Quarterstaff</enname> <name></name>
 		<type>M</type>
         <magic></magic>
-		<value>2 серебра</value>
+		<value>2 см</value>
 		<weight>4</weight>
 		<dmg1>1d6</dmg1>
 		<dmg2>1d8</dmg2>
@@ -2056,10 +2078,10 @@
 		<text>Источник: Книга игрока, страница 149</text>
 	</item>
 	<item>
-		<name>Rapier</name>
+		<enname>Rapier</enname> <name></name>
 		<type>M</type>
         <magic></magic>
-		<value>25 золота</value>
+		<value>25 зм</value>
 		<weight>2</weight>
 		<dmg1>1d8</dmg1>
 		<dmgType>P</dmgType>
@@ -2069,10 +2091,10 @@
 		<text>Источник: Книга игрока, страница 149</text>
 	</item>
 	<item>
-		<name>Scimitar</name>
+		<enname>Scimitar</enname> <name></name>
 		<type>M</type>
         <magic></magic>
-		<value>25 золота</value>
+		<value>25 зм</value>
 		<weight>3</weight>
 		<dmg1>1d6</dmg1>
 		<dmgType>S</dmgType>
@@ -2084,10 +2106,10 @@
 		<text>Источник: Книга игрока, страница 149</text>
 	</item>
 	<item>
-		<name>Shortsword</name>
+		<enname>Shortsword</enname> <name></name>
 		<type>M</type>
         <magic></magic>
-		<value>10 золота</value>
+		<value>10 зм</value>
 		<weight>2</weight>
 		<dmg1>1d6</dmg1>
 		<dmgType>P</dmgType>
@@ -2099,10 +2121,10 @@
 		<text>Источник: Книга игрока, страница 149</text>
 	</item>
 	<item>
-		<name>Sickle</name>
+		<enname>Sickle</enname> <name></name>
 		<type>M</type>
         <magic></magic>
-		<value>1 золотая монета</value>
+		<value>1 зм</value>
 		<weight>2</weight>
 		<dmg1>1d4</dmg1>
 		<dmgType>S</dmgType>
@@ -2112,10 +2134,10 @@
 		<text>Источник: Книга игрока, страница 149</text>
 	</item>
 	<item>
-		<name>Spear</name>
+		<enname>Spear</enname> <name></name>
 		<type>M</type>
         <magic></magic>
-		<value>1 золотая монета</value>
+		<value>1 зм</value>
 		<weight>3</weight>
 		<dmg1>1d6</dmg1>
 		<dmg2>1d8</dmg2>
@@ -2131,10 +2153,10 @@
 		<text>Источник: Книга игрока, страница 149</text>
 	</item>
 	<item>
-		<name>Trident</name>
+		<enname>Trident</enname> <name></name>
 		<type>M</type>
         <magic></magic>
-		<value>5 золота</value>
+		<value>5 зм</value>
 		<weight>4</weight>
 		<dmg1>1d6</dmg1>
 		<dmg2>1d8</dmg2>
@@ -2150,20 +2172,20 @@
 		<text>Источник: Книга игрока, страница 149</text>
 	</item>
 	<item>
-		<name>War Pick</name>
+		<enname>War Pick</enname> <name></name>
 		<type>M</type>
         <magic></magic>
-		<value>5 золота</value>
+		<value>5 зм</value>
 		<weight>2</weight>
 		<dmg1>1d8</dmg1>
 		<dmgType>P</dmgType>
 		<text>Источник: Книга игрока, страница 149</text>
 	</item>
 	<item>
-		<name>Warhammer</name>
+		<enname>Warhammer</enname> <name></name>
 		<type>M</type>
         <magic></magic>
-		<value>15 золота</value>
+		<value>15 зм</value>
 		<weight>2</weight>
 		<dmg1>1d8</dmg1>
 		<dmg2>1d10</dmg2>
@@ -2174,10 +2196,10 @@
 		<text>Источник: Книга игрока, страница 149</text>
 	</item>
 	<item>
-		<name>Whip</name>
+		<enname>Whip</enname> <name></name>
 		<type>M</type>
         <magic></magic>
-		<value>2 золота</value>
+		<value>2 зм</value>
 		<weight>3</weight>
 		<dmg1>1d4</dmg1>
 		<dmgType>S</dmgType>
@@ -2189,10 +2211,10 @@
 		<text>Источник: Книга игрока, страница 149</text>
 	</item>
 	<item>
-		<name>Breastplate</name>
+		<enname>Breastplate</enname> <name></name>
 		<type>MA</type>
         <magic></magic>
-		<value>400 золота</value>
+		<value>400 зм</value>
 		<weight>20</weight>
 		<ac>14</ac>
 		<text>This armor consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armor provides good protection for the wearer's vital organs while leaving the wearer relatively unencumbered.</text>
@@ -2200,10 +2222,10 @@
 		<text>Источник: Книга игрока, страница 145</text>
 	</item>
 	<item>
-		<name>Chain Shirt</name>
+		<enname>Chain Shirt</enname> <name></name>
 		<type>MA</type>
         <magic></magic>
-		<value>50 золота</value>
+		<value>50 зм</value>
 		<weight>20</weight>
 		<ac>13</ac>
 		<text>Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest protection to the wearer's upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers.</text>
@@ -2211,10 +2233,10 @@
 		<text>Источник: Книга игрока, страница 144</text>
 	</item>
 	<item>
-		<name>Half Plate</name>
+		<enname>Half Plate</enname> <name></name>
 		<type>MA</type>
         <magic></magic>
-		<value>750 золота</value>
+		<value>750 зм</value>
 		<weight>40</weight>
 		<ac>15</ac>
 		<stealth>YES</stealth>
@@ -2223,10 +2245,10 @@
 		<text>Источник: Книга игрока, страница 145</text>
 	</item>
 	<item>
-		<name>Hide Armor</name>
+		<enname>Hide Armor</enname> <name></name>
 		<type>MA</type>
         <magic></magic>
-		<value>10 золота</value>
+		<value>10 зм</value>
 		<weight>12</weight>
 		<ac>12</ac>
 		<text>This crude armor consists of thick furs and pelts. It is commonly worn by barbarian tribes, evil humanoids, and other folk who lack access to the tools and materials needed to create better armor.</text>
@@ -2234,10 +2256,10 @@
 		<text>Источник: Книга игрока, страница 144</text>
 	</item>
 	<item>
-		<name>Scale Mail</name>
+		<enname>Scale Mail</enname> <name></name>
 		<type>MA</type>
         <magic></magic>
-		<value>50 золота</value>
+		<value>50 зм</value>
 		<weight>45</weight>
 		<ac>14</ac>
 		<stealth>YES</stealth>
@@ -2246,10 +2268,10 @@
 		<text>Источник: Книга игрока, страница 144</text>
 	</item>
 	<item>
-		<name>Blowgun</name>
+		<enname>Blowgun</enname> <name></name>
 		<type>R</type>
         <magic></magic>
-		<value>10 золота</value>
+		<value>10 зм</value>
 		<weight>1</weight>
 		<dmg1>1</dmg1>
 		<dmgType>P</dmgType>
@@ -2266,10 +2288,10 @@
 		<text>Источник: Книга игрока, страница 149</text>
 	</item>
 	<item>
-		<name>Dart</name>
+		<enname>Dart</enname> <name></name>
 		<type>R</type>
         <magic></magic>
-		<value>5 меди</value>
+		<value>5 мм</value>
 		<weight>0.25</weight>
 		<dmg1>1d4</dmg1>
 		<dmgType>P</dmgType>
@@ -2284,10 +2306,10 @@
 		<text>Источник: Книга игрока, страница 149</text>
 	</item>
 	<item>
-		<name>Hand Crossbow</name>
+		<enname>Hand Crossbow</enname> <name></name>
 		<type>R</type>
         <magic></magic>
-		<value>75 золота</value>
+		<value>75 зм</value>
 		<weight>3</weight>
 		<dmg1>1d6</dmg1>
 		<dmgType>P</dmgType>
@@ -2306,10 +2328,10 @@
 		<text>Источник: Книга игрока, страница 149</text>
 	</item>
 	<item>
-		<name>Heavy Crossbow</name>
+		<enname>Heavy Crossbow</enname> <name></name>
 		<type>R</type>
         <magic></magic>
-		<value>50 золота</value>
+		<value>50 зм</value>
 		<weight>18</weight>
 		<dmg1>1d10</dmg1>
 		<dmgType>P</dmgType>
@@ -2330,10 +2352,10 @@
 		<text>Источник: Книга игрока, страница 149</text>
 	</item>
 	<item>
-		<name>Light Crossbow</name>
+		<enname>Light Crossbow</enname> <name></name>
 		<type>R</type>
         <magic></magic>
-		<value>25 золота</value>
+		<value>25 зм</value>
 		<weight>5</weight>
 		<dmg1>1d8</dmg1>
 		<dmgType>P</dmgType>
@@ -2352,10 +2374,10 @@
 		<text>Источник: Книга игрока, страница 149</text>
 	</item>
 	<item>
-		<name>Longbow</name>
+		<enname>Longbow</enname> <name></name>
 		<type>R</type>
         <magic></magic>
-		<value>50 золота</value>
+		<value>50 зм</value>
 		<weight>2</weight>
 		<dmg1>1d8</dmg1>
 		<dmgType>P</dmgType>
@@ -2374,10 +2396,10 @@
 		<text>Источник: Книга игрока, страница 149</text>
 	</item>
 	<item>
-		<name>Net</name>
+		<enname>Net</enname> <name></name>
 		<type>R</type>
         <magic></magic>
-		<value>1 золотая монета</value>
+		<value>1 зм</value>
 		<weight>3</weight>
 		<property>S,T</property>
 		<range>5/15</range>
@@ -2390,10 +2412,10 @@
 		<text>Источник: Книга игрока, страница 149</text>
 	</item>
 	<item>
-		<name>Shortbow</name>
+		<enname>Shortbow</enname> <name></name>
 		<type>R</type>
         <magic></magic>
-		<value>25 золота</value>
+		<value>25 зм</value>
 		<weight>2</weight>
 		<dmg1>1d6</dmg1>
 		<dmgType>P</dmgType>
@@ -2410,10 +2432,10 @@
 		<text>Источник: Книга игрока, страница 149</text>
 	</item>
 	<item>
-		<name>Sling</name>
+		<enname>Sling</enname> <name></name>
 		<type>R</type>
         <magic></magic>
-		<value>1 серебряная монета</value>
+		<value>1 см</value>
 		<dmg1>1d4</dmg1>
 		<dmgType>B</dmgType>
 		<property>A</property>
@@ -2427,10 +2449,10 @@
 		<text>Источник: Книга игрока, страница 149</text>
 	</item>
 	<item>
-		<name>Shield</name>
+		<enname>Shield</enname> <name></name>
 		<type>S</type>
         <magic></magic>
-		<value>10 золота</value>
+		<value>10 зм</value>
 		<weight>6</weight>
 		<ac>2</ac>
 		<text>A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class by 2. You can benefit from only one shield at a time.</text>
@@ -2438,10 +2460,10 @@
 		<text>Источник: Книга игрока, страница 144</text>
 	</item>
 	<item>
-		<name>Assassin's Blood (Ingested)</name>
+		<enname>Assassin's Blood (Ingested)</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>150 золота</value>
+		<value>150 зм</value>
 		<weight>0</weight>
 		<text>A creature subjected to this poison must make a DC 10 Constitution saving throw. On a failed save, it takes 6 (1d12) poison damage and is poisoned for 24 hours. On a successful save, the creature takes half damage and isn't poisoned.</text>
 		<text />
@@ -2449,10 +2471,10 @@
 		<roll>1d12</roll>
 	</item>
 	<item>
-		<name>Burnt Othur Fumes (Inhaled)</name>
+		<enname>Burnt Othur Fumes (Inhaled)</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>500 золота</value>
+		<value>500 зм</value>
 		<weight>0</weight>
 		<text>A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or take 10 (3d6) poison damage, and must repeat the saving throw at the start of each of its turns. On each successive failed save, the character takes 3 (1d6) poison damage. After three successful saves, the poison ends.</text>
 		<text />
@@ -2461,50 +2483,50 @@
 		<roll>1d6</roll>
 	</item>
 	<item>
-		<name>Carrion Crawler Mucus (Contact)</name>
+		<enname>Carrion Crawler Mucus (Contact)</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>200 золота</value>
+		<value>200 зм</value>
 		<weight>0</weight>
 		<text>This poison must be harvested from a dead or incapacitated carrion crawler. A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or be poisoned for 1 minute. The poisoned creature is paralyzed. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
 		<text />
 		<text>Источник: Руководство Мастера, страницаe 258</text>
 	</item>
 	<item>
-		<name>Drow Poison (Injury)</name>
+		<enname>Drow Poison (Injury)</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>200 золота</value>
+		<value>200 зм</value>
 		<weight>0</weight>
 		<text>This poison is typically made only by the draw, and only in a place far removed from sunlight. A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the creature is also unconscious while poisoned in this way. The creature wakes up if it takes damage or if another creature takes an action to shake it awake.</text>
 		<text />
 		<text>Источник: Руководство Мастера, страницаe 258</text>
 	</item>
 	<item>
-		<name>Essence of Ether (Inhaled)</name>
+		<enname>Essence of Ether (Inhaled)</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>300 золота</value>
+		<value>300 зм</value>
 		<weight>0</weight>
 		<text>A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become poisoned for 8 hours. The poisoned creature is unconscious. The creature wakes up if it takes damage or if another creature takes an action to shake it awake.</text>
 		<text />
 		<text>Источник: Руководство Мастера, страницаe 258</text>
 	</item>
 	<item>
-		<name>Malice (Inhaled)</name>
+		<enname>Malice (Inhaled)</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>250 золота</value>
+		<value>250 зм</value>
 		<weight>0</weight>
 		<text>A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become poisoned for 1 hour. The poisoned creature is blinded.</text>
 		<text />
 		<text>Источник: Руководство Мастера, страницаe 258</text>
 	</item>
 	<item>
-		<name>Midnight Tears (Ingested)</name>
+		<enname>Midnight Tears (Ingested)</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>1500 золота</value>
+		<value>1500 зм</value>
 		<weight>0</weight>
 		<text>A creature that ingests this poison suffers no effect until the stroke of midnight. If the poison has not been neutralized before then, the creature must succeed on a DC 17 Constitution saving throw, taking 31 (9d6) poison damage on a failed save, or half as much damage on a successful one.</text>
 		<text />
@@ -2512,20 +2534,20 @@
 		<roll>9d6</roll>
 	</item>
 	<item>
-		<name>Oil of Taggit (Contact)</name>
+		<enname>Oil of Taggit (Contact)</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>400 золота</value>
+		<value>400 зм</value>
 		<weight>0</weight>
 		<text>A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or become poisoned for 24 hours. The poisoned creature is unconscious. The creature wakes up if it takes damage.</text>
 		<text />
 		<text>Источник: Руководство Мастера, страницаe 258</text>
 	</item>
 	<item>
-		<name>Pale Tincture (Ingested)</name>
+		<enname>Pale Tincture (Ingested)</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>250 золота</value>
+		<value>250 зм</value>
 		<weight>0</weight>
 		<text>A creature subjected to this poison must succeed on a DC 16 Constitution saving throw or take 3 (1d6) poison damage and become poisoned. The poisoned creature must repeat the saving throw every 24 hours, taking 3 (1d6) poison damage on a failed save. Until this poison ends, the damage the poison deals can't be healed by any means. After seven successful saving throws, the effect ends and the creature can heal normally.</text>
 		<text />
@@ -2533,10 +2555,10 @@
 		<roll>1d6</roll>
 	</item>
 	<item>
-		<name>Purple Worm Poison (Injury)</name>
+		<enname>Purple Worm Poison (Injury)</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>2000 золота</value>
+		<value>2000 зм</value>
 		<weight>0</weight>
 		<text>This poison must be harvested from a dead or incapacitated purple worm. A creature subjected to this poison must make a DC 19 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.</text>
 		<text />
@@ -2544,10 +2566,10 @@
 		<roll>12d6</roll>
 	</item>
 	<item>
-		<name>Serpent Venom (Injury)</name>
+		<enname>Serpent Venom (Injury)</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>200 золота</value>
+		<value>200 зм</value>
 		<weight>0</weight>
 		<text>This poison must be harvested from a dead or incapacitated giant poisonous snake. A creature subjected to this poison must succeed on a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.</text>
 		<text />
@@ -2555,10 +2577,10 @@
 		<roll>3d6</roll>
 	</item>
 	<item>
-		<name>Torpor (Ingested)</name>
+		<enname>Torpor (Ingested)</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>600 золота</value>
+		<value>600 зм</value>
 		<weight>0</weight>
 		<text>A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become poisoned for 4d6 hours. The poisoned creature is incapacitated.</text>
 		<text />
@@ -2566,20 +2588,20 @@
 		<roll>4d6</roll>
 	</item>
 	<item>
-		<name>Truth Serum (Ingested)</name>
+		<enname>Truth Serum (Ingested)</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>150 золота</value>
+		<value>150 зм</value>
 		<weight>0</weight>
 		<text>A creature subjected to thi poison must succeed on a DC 11 Constitution saving throw or become poisoned for 1 hour. The poisoned creature can't knowingly speak a lie, as if under the effect of a zone of truth spell.</text>
 		<text />
 		<text>Источник: Руководство Мастера, страницаe 258</text>
 	</item>
 	<item>
-		<name>Wyvern Poison (Injury)</name>
+		<enname>Wyvern Poison (Injury)</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
-		<value>1200 золота</value>
+		<value>1200 зм</value>
 		<weight>0</weight>
 		<text>This poison must be harvested from a dead or incapacitated wyvern. A creature subjected to this poison must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.</text>
 		<text />
@@ -2587,7 +2609,7 @@
 		<roll>7d6</roll>
 	</item>
 	<item>
-		<name>Trinket</name>
+		<enname>Trinket</enname> <name></name>
 		<type>Снаряжение</type>
         <magic></magic>
 		<weight>0</weight>
@@ -2807,10 +2829,10 @@
 		<roll>1d100</roll>
 	</item>
 	<item>
-		<name>Spiked Armor</name>
+		<enname>Spiked Armor</enname> <name></name>
 		<type>MA</type>
         <magic></magic>
-		<value>75 золота</value>
+		<value>75 зм</value>
 		<weight>45</weight>
 		<ac>14</ac>
 		<stealth>YES</stealth>
@@ -2821,10 +2843,10 @@
 		<text>Source: Sword Coast Adventurer's Guide, page 121</text>
 	</item>
     <item>
-        <name>Monster Hunter's Pack</name>
+        <enname>Monster Hunter's Pack</enname> <name></name>
         <type>Снаряжение</type>
         <magic></magic>
-        <value>33 золота</value>
+        <value>33 зм</value>
 		<weight>48.5</weight>
         <text>Includes:</text>
         <text>   • a chest</text>
